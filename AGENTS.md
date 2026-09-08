@@ -174,16 +174,19 @@ Before editing files:
 2. Check whether an `AGENTS.md` instruction already covers the change.
 3. Keep terminology aligned with the variational frozen-core FCI Hamiltonian framing.
 
-When adding code later, prefer a clear modular layout:
+Current repository structure:
 
 ```text
-data/          benchmark metadata or download scripts
-configs/       experiment configs
-src/           reusable source code
-scripts/       runnable experiment entry points
-notebooks/     exploratory analysis only
-results/       generated summaries, not raw massive outputs
-docs/          paper notes and figures
+.
+├── .gitignore   ignored files and generated artifacts
+├── AGENTS.md    canonical project instructions for AI coding agents
+├── CLAUDE.md    pointer to AGENTS.md and project.md for Claude-style agents
+├── README.md    public-facing project overview
+├── angel_src/   source directory for ANGEL package code
+├── docs/        project documentation and paper-related notes
+├── project.md   detailed research plan and protocol notes
+├── results/     generated research outputs and summaries
+└── scripts/     runnable project scripts
 ```
 
 Do not commit large datasets, model checkpoints, raw trajectories, or generated heavy outputs unless the user explicitly asks for that repository policy.

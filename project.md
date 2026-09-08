@@ -450,3 +450,18 @@ The project is successful if it demonstrates all of the following:
 4. Select 25-100 NCI-critical configurations for the first variational NQS solving test.
 5. Validate NQS-derived interaction curves on the smallest systems before moving to larger aromatic dimers.
 6. Implement a frozen-base delta-correction head as the first fine-tuning protocol.
+
+## 19. Current Repository Structure
+
+```text
+.
+├── .gitignore   ignored files and generated artifacts
+├── AGENTS.md    canonical project instructions for AI coding agents
+├── CLAUDE.md    pointer to AGENTS.md and project.md for Claude-style agents
+├── README.md    public-facing project overview
+├── angel_src/   source directory for ANGEL package code
+├── docs/        project documentation and paper-related notes
+├── project.md   detailed research plan and protocol notes
+├── results/     generated research outputs and summaries
+└── scripts/     runnable project scripts
+```
