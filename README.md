@@ -1,6 +1,6 @@
 # ANGEL
 
-**Adaptive Neural-quantum-state Guidance for Energy Landscapes**
+**Adaptive Neural-quantum-state Guided Energy Landscapes**
 
 ANGEL is a research package for sparse neural quantum state (NQS)-supervised adaptation of pretrained machine-learned interatomic potentials (MLIPs) to noncovalent interaction (NCI) energy landscapes.
 
