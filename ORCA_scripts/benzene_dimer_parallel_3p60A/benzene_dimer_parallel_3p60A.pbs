@@ -1,6 +1,6 @@
 #!/bin/bash
 #PBS -N c6h6_3p60A
-#PBS -l select=1:ncpus=32:mpiprocs=32:mem=128gb
+#PBS -l select=1:ncpus=32:mpiprocs=32:mem=172gb
 #PBS -l walltime=48:00:00
 #PBS -j oe
 set -euo pipefail

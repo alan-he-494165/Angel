@@ -1,0 +1,235 @@
+[file orca_tools/qcmat1.cpp, line 2079, Process 20]: Unable to open file benzene_dimer_parallel_3p40A.Fguess.tmp.proc20_LOG.tmp in TMatrix<T>::StoreLoc(const char *fname)!
+
+[cx3-14-21:2735534] *** Process received signal ***
+[cx3-14-21:2735534] Signal: Aborted (6)
+[cx3-14-21:2735534] Signal code:  (-6)
+[cx3-14-21:2735534] [ 0] /lib64/libc.so.6(+0x4e630)[0x153af2508630]
+[cx3-14-21:2735534] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x153af25085af]
+[cx3-14-21:2735534] [ 2] [file orca_tools/qcmat1.cpp, line 2079, Process 16]: Unable to open file benzene_dimer_parallel_3p40A.Fguess.tmp.proc16_LOG.tmp in TMatrix<T>::StoreLoc(const char *fname)!
+
+[cx3-14-21:2735531] *** Process received signal ***
+[cx3-14-21:2735531] Signal: Aborted (6)
+[cx3-14-21:2735531] Signal code:  (-6)
+/lib64/libc.so.6(abort+0x127)[0x153af24dbee5]
+[cx3-14-21:2735534] [ 3] [cx3-14-21:2735531] [ 0] /lib64/libc.so.6(+0x4e630)[0x14d9693bd630]
+[cx3-14-21:2735531] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14d9693bd5af]
+[cx3-14-21:2735531] [ 2] /lib64/libc.so.6(abort+0x127)[0x14d969390ee5]
+[cx3-14-21:2735531] [ 3] [file orca_tools/qcmat1.cpp, line 2079, Process 1]: Unable to open file benzene_dimer_parallel_3p40A.Fguess.tmp.proc1_LOG.tmp in TMatrix<T>::StoreLoc(const char *fname)!
+
+[cx3-14-21:2735508] *** Process received signal ***
+[cx3-14-21:2735508] Signal: Aborted (6)
+[cx3-14-21:2735508] Signal code:  (-6)
+[file orca_tools/qcmat1.cpp, line 2079, Process 0]: Unable to open file benzene_dimer_parallel_3p40A.Fguess.tmp.proc0_LOG.tmp in TMatrix<T>::StoreLoc(const char *fname)!
+
+[cx3-14-21:2735507] *** Process received signal ***
+[cx3-14-21:2735507] Signal: Aborted (6)
+[cx3-14-21:2735507] Signal code:  (-6)
+[cx3-14-21:2735508] [ 0] /lib64/libc.so.6(+0x4e630)[0x14a4c40ca630]
+[cx3-14-21:2735508] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14a4c40ca5af]
+[cx3-14-21:2735508] [ 2] /lib64/libc.so.6(abort+0x127)[0x14a4c409dee5]
+[cx3-14-21:2735508] [ 3] [cx3-14-21:2735507] [ 0] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x153af765d020]
+[cx3-14-21:2735534] [ 4] [file orca_tools/qcmat1.cpp, line 2079, Process 18]: Unable to open file benzene_dimer_parallel_3p40A.Fguess.tmp.proc18_LOG.tmp in TMatrix<T>::StoreLoc(const char *fname)!
+
+[cx3-14-21:2735524] *** Process received signal ***
+[cx3-14-21:2735524] Signal: Aborted (6)
+[cx3-14-21:2735524] Signal code:  (-6)
+/lib64/libc.so.6(+0x4e630)[0x14574f8cc630]
+[cx3-14-21:2735507] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14574f8cc5af]
+[cx3-14-21:2735507] [ 2] /lib64/libc.so.6(abort+0x127)[0x14574f89fee5]
+[cx3-14-21:2735507] [ 3] [file orca_tools/qcmat1.cpp, line 2079, Process 17]: Unable to open file benzene_dimer_parallel_3p40A.Fguess.tmp.proc17_LOG.tmp in TMatrix<T>::StoreLoc(const char *fname)!
+
+[cx3-14-21:2735521] *** Process received signal ***
+[cx3-14-21:2735521] Signal: Aborted (6)
+[cx3-14-21:2735521] Signal code:  (-6)
+[cx3-14-21:2735521] [ 0] /lib64/libc.so.6(+0x4e630)[0x14be63111630]
+[cx3-14-21:2735521] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14be631115af]
+[cx3-14-21:2735521] [ 2] /lib64/libc.so.6(abort+0x127)[0x14be630e4ee5]
+[cx3-14-21:2735521] [ 3] [file orca_tools/qcmat1.cpp, line 2079, Process 24]: Unable to open file benzene_dimer_parallel_3p40A.Fguess.tmp.proc24_LOG.tmp in TMatrix<T>::StoreLoc(const char *fname)!
+
+[cx3-14-21:2735536] *** Process received signal ***
+[cx3-14-21:2735536] Signal: Aborted (6)
+[cx3-14-21:2735536] Signal code:  (-6)
+[cx3-14-21:2735536] [ 0] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14d96e512020]
+[cx3-14-21:2735531] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z19AbortMessageFmtFunciPKciS0_z+0xb3)[0x153af37bcb03]
+[cx3-14-21:2735534] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14a4c921f020]
+[cx3-14-21:2735508] [ 4] /lib64/libc.so.6(+0x4e630)[0x15400abaf630]
+[cx3-14-21:2735536] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x15400abaf5af]
+[cx3-14-21:2735536] [ 2] /lib64/libc.so.6(abort+0x127)[0x15400ab82ee5]
+[cx3-14-21:2735536] [ 3] [file orca_tools/qcmat1.cpp, line 2079, Process 8]: Unable to open file benzene_dimer_parallel_3p40A.Fguess.tmp.proc8_LOG.tmp in TMatrix<T>::StoreLoc(const char *fname)!
+
+[cx3-14-21:2735516] *** Process received signal ***
+[cx3-14-21:2735516] Signal: Aborted (6)
+[cx3-14-21:2735516] Signal code:  (-6)
+[cx3-14-21:2735524] [ 0] [cx3-14-21:2735516] [ 0] /lib64/libc.so.6(+0x4e630)[0x14ce34deb630]
+[cx3-14-21:2735516] [ 1] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z19AbortMessageFmtFunciPKciS0_z+0xb3)[0x14d96a671b03]
+[cx3-14-21:2735531] [ 5] /lib64/libc.so.6(gsignal+0x10f)[0x14ce34deb5af]
+[cx3-14-21:2735516] [ 2] /lib64/libc.so.6(abort+0x127)[0x14ce34dbeee5]
+[cx3-14-21:2735516] [ 3] [file orca_tools/qcmat1.cpp, line 2079, Process 31]: Unable to open file benzene_dimer_parallel_3p40A.Fguess.tmp.proc31_LOG.tmp in TMatrix<T>::StoreLoc(const char *fname)!
+
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x145754a21020]
+[cx3-14-21:2735507] [ 4] [cx3-14-21:2735537] *** Process received signal ***
+[cx3-14-21:2735537] Signal: Aborted (6)
+[cx3-14-21:2735537] Signal code:  (-6)
+/lib64/libc.so.6(+0x4e630)[0x14dfa5bef630]
+[cx3-14-21:2735524] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14dfa5bef5af]
+[cx3-14-21:2735524] [ 2] /lib64/libc.so.6(abort+0x127)[0x14dfa5bc2ee5]
+[cx3-14-21:2735524] [ 3] [file orca_tools/qcmat1.cpp, line 2079, Process 13]: Unable to open file benzene_dimer_parallel_3p40A.Fguess.tmp.proc13_LOG.tmp in TMatrix<T>::StoreLoc(const char *fname)!
+
+[cx3-14-21:2735519] *** Process received signal ***
+[cx3-14-21:2735519] Signal: Aborted (6)
+[cx3-14-21:2735519] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZNK7TMatrixIiE8StoreLocEPKc+0x9c)[0x153af37525cc]
+[cx3-14-21:2735534] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z19AbortMessageFmtFunciPKciS0_z+0xb3)[0x14a4c537eb03]
+[cx3-14-21:2735537] [ 0] /lib64/libc.so.6(+0x4e630)[0x14dd823c3630]
+[cx3-14-21:2735537] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14dd823c35af]
+[cx3-14-21:2735537] [cx3-14-21:2735519] [ 0] /lib64/libc.so.6(+0x4e630)[0x1464dd383630]
+[cx3-14-21:2735519] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1464dd3835af]
+[cx3-14-21:2735519] [ 2] [ 2] /lib64/libc.so.6(abort+0x127)[0x1464dd356ee5]
+[cx3-14-21:2735519] [ 3] /lib64/libc.so.6(abort+0x127)[0x14dd82396ee5]
+[cx3-14-21:2735537] [ 3] [cx3-14-21:2735508] [file orca_tools/qcmat1.cpp, line 2079, Process 23]: Unable to open file benzene_dimer_parallel_3p40A.Fguess.tmp.proc23_LOG.tmp in TMatrix<T>::StoreLoc(const char *fname)!
+
+[ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14be68266020]
+[cx3-14-21:2735521] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZNK7TMatrixIiE8StoreLocEPKc+0x9c)[0x14d96a6075cc]
+[cx3-14-21:2735531] [ 6] [cx3-14-21:2735530] *** Process received signal ***
+[cx3-14-21:2735530] Signal: Aborted (6)
+[cx3-14-21:2735530] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z19AbortMessageFmtFunciPKciS0_z+0xb3)[0x145750b80b03]
+[cx3-14-21:2735507] [ 5] [cx3-14-21:2735530] [ 0] /lib64/libc.so.6(+0x4e630)[0x15350c83d630]
+[cx3-14-21:2735530] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x15350c83d5af]
+[cx3-14-21:2735530] [ 2] /lib64/libc.so.6(abort+0x127)[0x15350c810ee5]
+[cx3-14-21:2735530] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x153511992020]
+[cx3-14-21:2735530] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z19AbortMessageFmtFunciPKciS0_z+0xb3)[0x15350daf1b03]
+[cx3-14-21:2735530] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZNK7TMatrixIiE8StoreLocEPKc+0x9c)[0x145750b165cc]
+[cx3-14-21:2735507] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN20TMetaMatrixContainer17CloseLocFileWriteEv+0x92)[0x1457544f1502]
+[cx3-14-21:2735507] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c211d]
+[cx3-14-21:2735507] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2735507] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2735507] [10] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14574f8b8865]
+[cx3-14-21:2735507] [11] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2735507] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14ce39f40020]
+[cx3-14-21:2735516] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z19AbortMessageFmtFunciPKciS0_z+0xb3)[0x14ce3609fb03]
+[cx3-14-21:2735516] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZNK7TMatrixIiE8StoreLocEPKc+0x9c)[0x14ce360355cc]
+[cx3-14-21:2735516] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN20TMetaMatrixContainer17CloseLocFileWriteEv+0x92)[0x153af712d502]
+[cx3-14-21:2735534] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c211d]
+[cx3-14-21:2735534] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2735534] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2735534] [10] /lib64/libc.so.6(__libc_start_main+0xe5)[0x153af24f4865]
+[cx3-14-21:2735534] [11] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2735534] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x15400fd04020]
+[cx3-14-21:2735536] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z19AbortMessageFmtFunciPKciS0_z+0xb3)[0x15400be63b03]
+[cx3-14-21:2735536] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZNK7TMatrixIiE8StoreLocEPKc+0x9c)[0x15400bdf95cc]
+[cx3-14-21:2735536] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN20TMetaMatrixContainer17CloseLocFileWriteEv+0x92)[0x15400f7d4502]
+[cx3-14-21:2735536] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c211d]
+[cx3-14-21:2735536] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2735536] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2735536] [10] /lib64/libc.so.6(__libc_start_main+0xe5)[0x15400ab9b865]
+[cx3-14-21:2735536] [11] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2735536] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14dfaad44020]
+[cx3-14-21:2735524] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z19AbortMessageFmtFunciPKciS0_z+0xb3)[0x14dfa6ea3b03]
+[cx3-14-21:2735524] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14dd87518020]
+[cx3-14-21:2735537] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z19AbortMessageFmtFunciPKciS0_z+0xb3)[0x14dd83677b03]
+[cx3-14-21:2735537] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZNK7TMatrixIiE8StoreLocEPKc+0x9c)[0x14dd8360d5cc]
+[cx3-14-21:2735537] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z19AbortMessageFmtFunciPKciS0_z+0xb3)[0x14be643c5b03]
+[cx3-14-21:2735521] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZNK7TMatrixIiE8StoreLocEPKc+0x9c)[0x14be6435b5cc]
+[cx3-14-21:2735521] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN20TMetaMatrixContainer17CloseLocFileWriteEv+0x92)[0x14be67d36502]
+[cx3-14-21:2735521] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c211d]
+[cx3-14-21:2735521] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2735521] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2735521] [10] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14be630fd865]
+[cx3-14-21:2735521] [11] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2735521] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1464e24d8020]
+[cx3-14-21:2735519] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z19AbortMessageFmtFunciPKciS0_z+0xb3)[0x1464de637b03]
+[cx3-14-21:2735519] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZNK7TMatrixIiE8StoreLocEPKc+0x9c)[0x1464de5cd5cc]
+[cx3-14-21:2735519] [ 6] [file orca_tools/qcmat1.cpp, line 2079, Process 22]: Unable to open file benzene_dimer_parallel_3p40A.Fguess.tmp.proc22_LOG.tmp in TMatrix<T>::StoreLoc(const char *fname)!
+
+[cx3-14-21:2735527] *** Process received signal ***
+[cx3-14-21:2735527] Signal: Aborted (6)
+[cx3-14-21:2735527] Signal code:  (-6)
+[cx3-14-21:2735527] [ 0] /lib64/libc.so.6(+0x4e630)[0x1468b0c8d630]
+[cx3-14-21:2735527] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1468b0c8d5af]
+[cx3-14-21:2735527] [ 2] /lib64/libc.so.6(abort+0x127)[0x1468b0c60ee5]
+[cx3-14-21:2735527] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1468b5de2020]
+[cx3-14-21:2735527] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z19AbortMessageFmtFunciPKciS0_z+0xb3)[0x1468b1f41b03]
+[cx3-14-21:2735527] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN20TMetaMatrixContainer17CloseLocFileWriteEv+0x92)[0x14d96dfe2502]
+[cx3-14-21:2735531] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c211d]
+[cx3-14-21:2735531] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2735531] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2735531] [10] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14d9693a9865]
+[cx3-14-21:2735531] [11] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2735531] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZNK7TMatrixIiE8StoreLocEPKc+0x9c)[0x14a4c53145cc]
+[cx3-14-21:2735508] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN20TMetaMatrixContainer17CloseLocFileWriteEv+0x92)[0x14a4c8cef502]
+[cx3-14-21:2735508] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c211d]
+[cx3-14-21:2735508] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2735508] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2735508] [10] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14a4c40b6865]
+[cx3-14-21:2735508] [11] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2735508] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZNK7TMatrixIiE8StoreLocEPKc+0x9c)[0x14dfa6e395cc]
+[cx3-14-21:2735524] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN20TMetaMatrixContainer17CloseLocFileWriteEv+0x92)[0x14ce39a10502]
+[cx3-14-21:2735516] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c211d]
+[cx3-14-21:2735516] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2735516] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2735516] [10] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14ce34dd7865]
+[cx3-14-21:2735516] [11] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2735516] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZNK7TMatrixIiE8StoreLocEPKc+0x9c)[0x15350da875cc]
+[cx3-14-21:2735530] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN20TMetaMatrixContainer17CloseLocFileWriteEv+0x92)[0x1464e1fa8502]
+[cx3-14-21:2735519] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c211d]
+[cx3-14-21:2735519] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2735519] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2735519] [10] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1464dd36f865]
+[cx3-14-21:2735519] [11] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2735519] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZNK7TMatrixIiE8StoreLocEPKc+0x9c)[0x1468b1ed75cc]
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN20TMetaMatrixContainer17CloseLocFileWriteEv+0x92)[0x14dd86fe8502]
+[cx3-14-21:2735537] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c211d]
+[cx3-14-21:2735537] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2735537] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2735537] [10] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14dd823af865]
+[cx3-14-21:2735537] [11] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2735537] *** End of error message ***
+[cx3-14-21:2735527] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN20TMetaMatrixContainer17CloseLocFileWriteEv+0x92)[0x14dfaa814502]
+[cx3-14-21:2735524] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN20TMetaMatrixContainer17CloseLocFileWriteEv+0x92)[0x153511462502]
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c211d]
+[cx3-14-21:2735524] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2735524] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2735524] [10] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14dfa5bdb865]
+[cx3-14-21:2735524] [11] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2735524] *** End of error message ***
+[cx3-14-21:2735530] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c211d]
+[cx3-14-21:2735530] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2735530] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2735530] [10] /lib64/libc.so.6(__libc_start_main+0xe5)[0x15350c829865]
+[cx3-14-21:2735530] [11] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2735530] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN20TMetaMatrixContainer17CloseLocFileWriteEv+0x92)[0x1468b58b2502]
+[cx3-14-21:2735527] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c211d]
+[cx3-14-21:2735527] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2735527] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2735527] [10] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1468b0c79865]
+[cx3-14-21:2735527] [11] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2735527] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 31 with PID 0 on node cx3-14-21 exited on signal 6 (Aborted).
+--------------------------------------------------------------------------
+[file orca_tools/qcmsg.cpp, line 394]: 
+  .... aborting the run
+
+
+====================================
+CPU Time used: 02:05:28
+CPU Percent: 3015%
+Memory usage: 7285712kb
+Approx Power usage: 0.025
+Walltime usage: 00:05:45
+
+====================================

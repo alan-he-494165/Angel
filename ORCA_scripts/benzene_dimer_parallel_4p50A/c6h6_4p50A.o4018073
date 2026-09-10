@@ -1,0 +1,499 @@
+[cx3-14-26:3642040] *** Process received signal ***
+[cx3-14-26:3642040] Signal: Aborted (6)
+[cx3-14-26:3642040] Signal code:  (-6)
+[cx3-14-26:3642045] *** Process received signal ***
+[cx3-14-26:3642045] Signal: Aborted (6)
+[cx3-14-26:3642045] Signal code:  (-6)
+[cx3-14-26:3642042] *** Process received signal ***
+[cx3-14-26:3642042] Signal: Aborted (6)
+[cx3-14-26:3642042] Signal code:  (-6)
+[cx3-14-26:3642047] *** Process received signal ***
+[cx3-14-26:3642047] Signal: Aborted (6)
+[cx3-14-26:3642047] Signal code:  (-6)
+[cx3-14-26:3642062] *** Process received signal ***
+[cx3-14-26:3642062] Signal: Aborted (6)
+[cx3-14-26:3642062] Signal code:  (-6)
+[cx3-14-26:3642062] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14f2e3e195b0]
+[cx3-14-26:3642062] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14f2e3e1952f]
+[cx3-14-26:3642062] [ 2] /lib64/libc.so.6(abort+0x127)[0x14f2e3dece65]
+[cx3-14-26:3642062] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14f2e8f6f020]
+[cx3-14-26:3642062] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x14f2e50cf3f4]
+[cx3-14-26:3642062] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x14f2e502431b]
+[cx3-14-26:3642062] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642062] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642062] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642062] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14f2e3e057e5]
+[cx3-14-26:3642062] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642062] *** End of error message ***
+[cx3-14-26:3642063] *** Process received signal ***
+[cx3-14-26:3642063] Signal: Aborted (6)
+[cx3-14-26:3642063] Signal code:  (-6)
+[cx3-14-26:3642063] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14c2599d35b0]
+[cx3-14-26:3642063] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14c2599d352f]
+[cx3-14-26:3642063] [ 2] /lib64/libc.so.6(abort+0x127)[0x14c2599a6e65]
+[cx3-14-26:3642063] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14c25eb29020]
+[cx3-14-26:3642063] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x14c25ac893f4]
+[cx3-14-26:3642063] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x14c25abde31b]
+[cx3-14-26:3642063] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642063] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642063] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642063] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14c2599bf7e5]
+[cx3-14-26:3642063] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642063] *** End of error message ***
+[cx3-14-26:3642069] *** Process received signal ***
+[cx3-14-26:3642069] Signal: Aborted (6)
+[cx3-14-26:3642069] Signal code:  (-6)
+[cx3-14-26:3642069] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x1528915e45b0]
+[cx3-14-26:3642069] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1528915e452f]
+[cx3-14-26:3642069] [ 2] /lib64/libc.so.6(abort+0x127)[0x1528915b7e65]
+[cx3-14-26:3642069] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x15289673a020]
+[cx3-14-26:3642069] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x15289289a3f4]
+[cx3-14-26:3642069] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x1528927ef31b]
+[cx3-14-26:3642069] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642069] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642069] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642069] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1528915d07e5]
+[cx3-14-26:3642069] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642069] *** End of error message ***
+[cx3-14-26:3642068] *** Process received signal ***
+[cx3-14-26:3642068] Signal: Aborted (6)
+[cx3-14-26:3642068] Signal code:  (-6)
+[cx3-14-26:3642068] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14c4b58fe5b0]
+[cx3-14-26:3642068] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14c4b58fe52f]
+[cx3-14-26:3642068] [ 2] /lib64/libc.so.6(abort+0x127)[0x14c4b58d1e65]
+[cx3-14-26:3642068] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14c4baa54020]
+[cx3-14-26:3642068] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x14c4b6bb43f4]
+[cx3-14-26:3642068] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x14c4b6b0931b]
+[cx3-14-26:3642068] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642068] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642068] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642068] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14c4b58ea7e5]
+[cx3-14-26:3642068] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642068] *** End of error message ***
+[cx3-14-26:3642066] *** Process received signal ***
+[cx3-14-26:3642066] Signal: Aborted (6)
+[cx3-14-26:3642066] Signal code:  (-6)
+[cx3-14-26:3642066] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x1524d67575b0]
+[cx3-14-26:3642066] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1524d675752f]
+[cx3-14-26:3642066] [ 2] /lib64/libc.so.6(abort+0x127)[0x1524d672ae65]
+[cx3-14-26:3642066] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1524db8ad020]
+[cx3-14-26:3642066] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x1524d7a0d3f4]
+[cx3-14-26:3642066] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x1524d796231b]
+[cx3-14-26:3642066] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642066] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642066] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642066] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1524d67437e5]
+[cx3-14-26:3642066] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642066] *** End of error message ***
+[cx3-14-26:3642047] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14a610d135b0]
+[cx3-14-26:3642047] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14a610d1352f]
+[cx3-14-26:3642047] [ 2] /lib64/libc.so.6(abort+0x127)[0x14a610ce6e65]
+[cx3-14-26:3642047] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14a615e69020]
+[cx3-14-26:3642047] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x14a611fc93f4]
+[cx3-14-26:3642047] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x14a611f1e31b]
+[cx3-14-26:3642047] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642047] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642047] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642047] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14a610cff7e5]
+[cx3-14-26:3642047] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642047] *** End of error message ***
+[cx3-14-26:3642067] *** Process received signal ***
+[cx3-14-26:3642067] Signal: Aborted (6)
+[cx3-14-26:3642067] Signal code:  (-6)
+[cx3-14-26:3642067] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14e23ee0a5b0]
+[cx3-14-26:3642067] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14e23ee0a52f]
+[cx3-14-26:3642067] [ 2] /lib64/libc.so.6(abort+0x127)[0x14e23eddde65]
+[cx3-14-26:3642067] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14e243f60020]
+[cx3-14-26:3642067] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x14e2400c03f4]
+[cx3-14-26:3642067] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x14e24001531b]
+[cx3-14-26:3642067] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642067] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642067] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642067] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14e23edf67e5]
+[cx3-14-26:3642067] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642067] *** End of error message ***
+[cx3-14-26:3642041] *** Process received signal ***
+[cx3-14-26:3642041] Signal: Aborted (6)
+[cx3-14-26:3642041] Signal code:  (-6)
+[cx3-14-26:3642041] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x1499a52285b0]
+[cx3-14-26:3642041] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1499a522852f]
+[cx3-14-26:3642041] [ 2] /lib64/libc.so.6(abort+0x127)[0x1499a51fbe65]
+[cx3-14-26:3642041] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1499aa37e020]
+[cx3-14-26:3642041] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x1499a64de3f4]
+[cx3-14-26:3642041] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x1499a643331b]
+[cx3-14-26:3642041] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642041] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642041] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642041] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1499a52147e5]
+[cx3-14-26:3642041] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642041] *** End of error message ***
+[cx3-14-26:3642038] *** Process received signal ***
+[cx3-14-26:3642038] Signal: Aborted (6)
+[cx3-14-26:3642038] Signal code:  (-6)
+[cx3-14-26:3642038] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14c7a19525b0]
+[cx3-14-26:3642038] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14c7a195252f]
+[cx3-14-26:3642038] [ 2] /lib64/libc.so.6(abort+0x127)[0x14c7a1925e65]
+[cx3-14-26:3642038] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14c7a6aa8020]
+[cx3-14-26:3642038] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x14c7a2c083f4]
+[cx3-14-26:3642038] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x14c7a2b5d31b]
+[cx3-14-26:3642038] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642038] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642038] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642038] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14c7a193e7e5]
+[cx3-14-26:3642038] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642038] *** End of error message ***
+[cx3-14-26:3642039] *** Process received signal ***
+[cx3-14-26:3642039] Signal: Aborted (6)
+[cx3-14-26:3642039] Signal code:  (-6)
+[cx3-14-26:3642039] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x15193d19a5b0]
+[cx3-14-26:3642039] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x15193d19a52f]
+[cx3-14-26:3642039] [ 2] /lib64/libc.so.6(abort+0x127)[0x15193d16de65]
+[cx3-14-26:3642039] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1519422f0020]
+[cx3-14-26:3642039] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x15193e4503f4]
+[cx3-14-26:3642039] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x15193e3a531b]
+[cx3-14-26:3642039] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642039] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642039] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642039] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x15193d1867e5]
+[cx3-14-26:3642039] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642039] *** End of error message ***
+[cx3-14-26:3642040] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14b5afaca5b0]
+[cx3-14-26:3642040] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14b5afaca52f]
+[cx3-14-26:3642040] [ 2] /lib64/libc.so.6(abort+0x127)[0x14b5afa9de65]
+[cx3-14-26:3642040] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14b5b4c20020]
+[cx3-14-26:3642040] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x14b5b0d803f4]
+[cx3-14-26:3642040] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x14b5b0cd531b]
+[cx3-14-26:3642040] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642040] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642040] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642040] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14b5afab67e5]
+[cx3-14-26:3642040] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642040] *** End of error message ***
+[cx3-14-26:3642044] *** Process received signal ***
+[cx3-14-26:3642044] Signal: Aborted (6)
+[cx3-14-26:3642044] Signal code:  (-6)
+[cx3-14-26:3642044] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x1534b8a995b0]
+[cx3-14-26:3642044] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1534b8a9952f]
+[cx3-14-26:3642044] [ 2] /lib64/libc.so.6(abort+0x127)[0x1534b8a6ce65]
+[cx3-14-26:3642044] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1534bdbef020]
+[cx3-14-26:3642044] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x1534b9d4f3f4]
+[cx3-14-26:3642044] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x1534b9ca431b]
+[cx3-14-26:3642044] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642044] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642044] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642044] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1534b8a857e5]
+[cx3-14-26:3642044] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642044] *** End of error message ***
+[cx3-14-26:3642045] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x1486ef7ae5b0]
+[cx3-14-26:3642045] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1486ef7ae52f]
+[cx3-14-26:3642045] [ 2] /lib64/libc.so.6(abort+0x127)[0x1486ef781e65]
+[cx3-14-26:3642045] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1486f4904020]
+[cx3-14-26:3642045] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x1486f0a643f4]
+[cx3-14-26:3642045] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x1486f09b931b]
+[cx3-14-26:3642045] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642045] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642045] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642045] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1486ef79a7e5]
+[cx3-14-26:3642045] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642045] *** End of error message ***
+[cx3-14-26:3642043] *** Process received signal ***
+[cx3-14-26:3642043] Signal: Aborted (6)
+[cx3-14-26:3642043] Signal code:  (-6)
+[cx3-14-26:3642043] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x1544fd49d5b0]
+[cx3-14-26:3642043] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1544fd49d52f]
+[cx3-14-26:3642043] [ 2] /lib64/libc.so.6(abort+0x127)[0x1544fd470e65]
+[cx3-14-26:3642043] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1545025f3020]
+[cx3-14-26:3642043] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x1544fe7533f4]
+[cx3-14-26:3642043] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x1544fe6a831b]
+[cx3-14-26:3642043] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642043] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642043] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642043] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1544fd4897e5]
+[cx3-14-26:3642043] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642043] *** End of error message ***
+[cx3-14-26:3642042] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x145bda44d5b0]
+[cx3-14-26:3642042] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x145bda44d52f]
+[cx3-14-26:3642042] [ 2] /lib64/libc.so.6(abort+0x127)[0x145bda420e65]
+[cx3-14-26:3642042] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x145bdf5a3020]
+[cx3-14-26:3642042] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x145bdb7033f4]
+[cx3-14-26:3642042] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x145bdb65831b]
+[cx3-14-26:3642042] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642042] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642042] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642042] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x145bda4397e5]
+[cx3-14-26:3642042] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642042] *** End of error message ***
+[cx3-14-26:3642049] *** Process received signal ***
+[cx3-14-26:3642049] Signal: Aborted (6)
+[cx3-14-26:3642049] Signal code:  (-6)
+[cx3-14-26:3642049] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x1515045a75b0]
+[cx3-14-26:3642049] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1515045a752f]
+[cx3-14-26:3642049] [ 2] /lib64/libc.so.6(abort+0x127)[0x15150457ae65]
+[cx3-14-26:3642049] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1515096fd020]
+[cx3-14-26:3642049] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x15150585d3f4]
+[cx3-14-26:3642049] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x1515057b231b]
+[cx3-14-26:3642049] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642049] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642049] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642049] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1515045937e5]
+[cx3-14-26:3642049] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642049] *** End of error message ***
+[cx3-14-26:3642046] *** Process received signal ***
+[cx3-14-26:3642046] Signal: Aborted (6)
+[cx3-14-26:3642046] Signal code:  (-6)
+[cx3-14-26:3642046] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x149ec4e555b0]
+[cx3-14-26:3642046] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x149ec4e5552f]
+[cx3-14-26:3642046] [ 2] /lib64/libc.so.6(abort+0x127)[0x149ec4e28e65]
+[cx3-14-26:3642046] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x149ec9fab020]
+[cx3-14-26:3642046] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x149ec610b3f4]
+[cx3-14-26:3642046] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x149ec606031b]
+[cx3-14-26:3642046] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642046] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642046] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642046] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x149ec4e417e5]
+[cx3-14-26:3642046] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642046] *** End of error message ***
+[cx3-14-26:3642048] *** Process received signal ***
+[cx3-14-26:3642048] Signal: Aborted (6)
+[cx3-14-26:3642048] Signal code:  (-6)
+[cx3-14-26:3642048] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x15438b47f5b0]
+[cx3-14-26:3642048] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x15438b47f52f]
+[cx3-14-26:3642048] [ 2] /lib64/libc.so.6(abort+0x127)[0x15438b452e65]
+[cx3-14-26:3642048] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1543905d5020]
+[cx3-14-26:3642048] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x15438c7353f4]
+[cx3-14-26:3642048] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x15438c68a31b]
+[cx3-14-26:3642048] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642048] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642048] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642048] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x15438b46b7e5]
+[cx3-14-26:3642048] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642048] *** End of error message ***
+[cx3-14-26:3642051] *** Process received signal ***
+[cx3-14-26:3642051] Signal: Aborted (6)
+[cx3-14-26:3642051] Signal code:  (-6)
+[cx3-14-26:3642051] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14608be8d5b0]
+[cx3-14-26:3642051] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14608be8d52f]
+[cx3-14-26:3642051] [ 2] /lib64/libc.so.6(abort+0x127)[0x14608be60e65]
+[cx3-14-26:3642051] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x146090fe3020]
+[cx3-14-26:3642051] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x14608d1433f4]
+[cx3-14-26:3642051] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x14608d09831b]
+[cx3-14-26:3642051] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642051] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642051] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642051] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14608be797e5]
+[cx3-14-26:3642051] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642051] *** End of error message ***
+[cx3-14-26:3642053] *** Process received signal ***
+[cx3-14-26:3642053] Signal: Aborted (6)
+[cx3-14-26:3642053] Signal code:  (-6)
+[cx3-14-26:3642053] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x1490a66ea5b0]
+[cx3-14-26:3642053] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1490a66ea52f]
+[cx3-14-26:3642053] [ 2] /lib64/libc.so.6(abort+0x127)[0x1490a66bde65]
+[cx3-14-26:3642053] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1490ab840020]
+[cx3-14-26:3642053] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x1490a79a03f4]
+[cx3-14-26:3642053] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x1490a78f531b]
+[cx3-14-26:3642053] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642053] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642053] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642053] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1490a66d67e5]
+[cx3-14-26:3642053] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642053] *** End of error message ***
+[cx3-14-26:3642050] *** Process received signal ***
+[cx3-14-26:3642050] Signal: Aborted (6)
+[cx3-14-26:3642050] Signal code:  (-6)
+[cx3-14-26:3642050] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14a8d09c35b0]
+[cx3-14-26:3642050] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14a8d09c352f]
+[cx3-14-26:3642050] [ 2] /lib64/libc.so.6(abort+0x127)[0x14a8d0996e65]
+[cx3-14-26:3642050] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14a8d5b19020]
+[cx3-14-26:3642050] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x14a8d1c793f4]
+[cx3-14-26:3642050] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x14a8d1bce31b]
+[cx3-14-26:3642050] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642050] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642050] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642050] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14a8d09af7e5]
+[cx3-14-26:3642050] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642050] *** End of error message ***
+[cx3-14-26:3642052] *** Process received signal ***
+[cx3-14-26:3642052] Signal: Aborted (6)
+[cx3-14-26:3642052] Signal code:  (-6)
+[cx3-14-26:3642052] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x1471d916f5b0]
+[cx3-14-26:3642052] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1471d916f52f]
+[cx3-14-26:3642052] [ 2] /lib64/libc.so.6(abort+0x127)[0x1471d9142e65]
+[cx3-14-26:3642052] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1471de2c5020]
+[cx3-14-26:3642052] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x1471da4253f4]
+[cx3-14-26:3642052] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x1471da37a31b]
+[cx3-14-26:3642052] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642052] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642052] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642052] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1471d915b7e5]
+[cx3-14-26:3642052] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642052] *** End of error message ***
+[cx3-14-26:3642056] *** Process received signal ***
+[cx3-14-26:3642056] Signal: Aborted (6)
+[cx3-14-26:3642056] Signal code:  (-6)
+[cx3-14-26:3642056] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14e1a76325b0]
+[cx3-14-26:3642056] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14e1a763252f]
+[cx3-14-26:3642056] [ 2] /lib64/libc.so.6(abort+0x127)[0x14e1a7605e65]
+[cx3-14-26:3642056] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14e1ac788020]
+[cx3-14-26:3642056] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x14e1a88e83f4]
+[cx3-14-26:3642056] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x14e1a883d31b]
+[cx3-14-26:3642056] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642056] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642056] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642056] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14e1a761e7e5]
+[cx3-14-26:3642056] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642056] *** End of error message ***
+[cx3-14-26:3642057] *** Process received signal ***
+[cx3-14-26:3642057] Signal: Aborted (6)
+[cx3-14-26:3642057] Signal code:  (-6)
+[cx3-14-26:3642057] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x1502983485b0]
+[cx3-14-26:3642057] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x15029834852f]
+[cx3-14-26:3642057] [ 2] /lib64/libc.so.6(abort+0x127)[0x15029831be65]
+[cx3-14-26:3642057] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x15029d49e020]
+[cx3-14-26:3642057] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x1502995fe3f4]
+[cx3-14-26:3642057] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x15029955331b]
+[cx3-14-26:3642057] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642057] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642057] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642057] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1502983347e5]
+[cx3-14-26:3642057] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642057] *** End of error message ***
+[cx3-14-26:3642054] *** Process received signal ***
+[cx3-14-26:3642054] Signal: Aborted (6)
+[cx3-14-26:3642054] Signal code:  (-6)
+[cx3-14-26:3642054] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14f6e72725b0]
+[cx3-14-26:3642054] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14f6e727252f]
+[cx3-14-26:3642054] [ 2] /lib64/libc.so.6(abort+0x127)[0x14f6e7245e65]
+[cx3-14-26:3642054] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14f6ec3c8020]
+[cx3-14-26:3642054] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x14f6e85283f4]
+[cx3-14-26:3642054] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x14f6e847d31b]
+[cx3-14-26:3642054] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642054] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642054] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642054] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14f6e725e7e5]
+[cx3-14-26:3642054] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642054] *** End of error message ***
+[cx3-14-26:3642055] *** Process received signal ***
+[cx3-14-26:3642055] Signal: Aborted (6)
+[cx3-14-26:3642055] Signal code:  (-6)
+[cx3-14-26:3642055] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14ab62aab5b0]
+[cx3-14-26:3642055] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14ab62aab52f]
+[cx3-14-26:3642055] [ 2] /lib64/libc.so.6(abort+0x127)[0x14ab62a7ee65]
+[cx3-14-26:3642055] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14ab67c01020]
+[cx3-14-26:3642055] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x14ab63d613f4]
+[cx3-14-26:3642055] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x14ab63cb631b]
+[cx3-14-26:3642055] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642055] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642055] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642055] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14ab62a977e5]
+[cx3-14-26:3642055] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642055] *** End of error message ***
+[cx3-14-26:3642060] *** Process received signal ***
+[cx3-14-26:3642060] Signal: Aborted (6)
+[cx3-14-26:3642060] Signal code:  (-6)
+[cx3-14-26:3642060] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x154cb48985b0]
+[cx3-14-26:3642060] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x154cb489852f]
+[cx3-14-26:3642060] [ 2] /lib64/libc.so.6(abort+0x127)[0x154cb486be65]
+[cx3-14-26:3642060] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x154cb99ee020]
+[cx3-14-26:3642060] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x154cb5b4e3f4]
+[cx3-14-26:3642060] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x154cb5aa331b]
+[cx3-14-26:3642060] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642060] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642060] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642060] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x154cb48847e5]
+[cx3-14-26:3642060] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642060] *** End of error message ***
+[cx3-14-26:3642061] *** Process received signal ***
+[cx3-14-26:3642061] Signal: Aborted (6)
+[cx3-14-26:3642061] Signal code:  (-6)
+[cx3-14-26:3642061] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x148a21aab5b0]
+[cx3-14-26:3642061] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x148a21aab52f]
+[cx3-14-26:3642061] [ 2] /lib64/libc.so.6(abort+0x127)[0x148a21a7ee65]
+[cx3-14-26:3642061] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x148a26c01020]
+[cx3-14-26:3642061] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x148a22d613f4]
+[cx3-14-26:3642061] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x148a22cb631b]
+[cx3-14-26:3642061] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642061] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642061] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642061] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x148a21a977e5]
+[cx3-14-26:3642061] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642061] *** End of error message ***
+[cx3-14-26:3642058] *** Process received signal ***
+[cx3-14-26:3642058] Signal: Aborted (6)
+[cx3-14-26:3642058] Signal code:  (-6)
+[cx3-14-26:3642058] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14c02a5025b0]
+[cx3-14-26:3642058] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14c02a50252f]
+[cx3-14-26:3642058] [ 2] /lib64/libc.so.6(abort+0x127)[0x14c02a4d5e65]
+[cx3-14-26:3642058] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14c02f658020]
+[cx3-14-26:3642058] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x14c02b7b83f4]
+[cx3-14-26:3642058] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x14c02b70d31b]
+[cx3-14-26:3642058] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642058] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642058] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642058] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14c02a4ee7e5]
+[cx3-14-26:3642058] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642058] *** End of error message ***
+[cx3-14-26:3642059] *** Process received signal ***
+[cx3-14-26:3642059] Signal: Aborted (6)
+[cx3-14-26:3642059] Signal code:  (-6)
+[cx3-14-26:3642059] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14566a4375b0]
+[cx3-14-26:3642059] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14566a43752f]
+[cx3-14-26:3642059] [ 2] /lib64/libc.so.6(abort+0x127)[0x14566a40ae65]
+[cx3-14-26:3642059] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14566f58d020]
+[cx3-14-26:3642059] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x14566b6ed3f4]
+[cx3-14-26:3642059] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x14566b64231b]
+[cx3-14-26:3642059] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642059] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642059] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642059] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14566a4237e5]
+[cx3-14-26:3642059] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642059] *** End of error message ***
+[cx3-14-26:3642065] *** Process received signal ***
+[cx3-14-26:3642065] Signal: Aborted (6)
+[cx3-14-26:3642065] Signal code:  (-6)
+[cx3-14-26:3642065] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x1519c127b5b0]
+[cx3-14-26:3642065] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1519c127b52f]
+[cx3-14-26:3642065] [ 2] /lib64/libc.so.6(abort+0x127)[0x1519c124ee65]
+[cx3-14-26:3642065] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1519c63d1020]
+[cx3-14-26:3642065] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x1519c25313f4]
+[cx3-14-26:3642065] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x1519c248631b]
+[cx3-14-26:3642065] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642065] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642065] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642065] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1519c12677e5]
+[cx3-14-26:3642065] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642065] *** End of error message ***
+[cx3-14-26:3642064] *** Process received signal ***
+[cx3-14-26:3642064] Signal: Aborted (6)
+[cx3-14-26:3642064] Signal code:  (-6)
+[cx3-14-26:3642064] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x1521d54055b0]
+[cx3-14-26:3642064] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1521d540552f]
+[cx3-14-26:3642064] [ 2] /lib64/libc.so.6(abort+0x127)[0x1521d53d8e65]
+[cx3-14-26:3642064] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1521da55b020]
+[cx3-14-26:3642064] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z16AbortMessageArgsPKciz+0xd4)[0x1521d66bb3f4]
+[cx3-14-26:3642064] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife6WakeUpI10TMatrixSymIdEEEvPT_PA512_Kcl+0x7b)[0x1521d661031b]
+[cx3-14-26:3642064] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x450c10]
+[cx3-14-26:3642064] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x48500e]
+[cx3-14-26:3642064] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3642064] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1521d53f17e5]
+[cx3-14-26:3642064] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3642064] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 26 with PID 0 on node cx3-14-26 exited on signal 6 (Aborted).
+--------------------------------------------------------------------------
+[file orca_tools/qcmsg.cpp, line 394]: 
+  .... aborting the run
+
+
+====================================
+CPU Time used: 02:40:45
+CPU Percent: 3174%
+Memory usage: 5924948kb
+Approx Power usage: 0.032
+Walltime usage: 00:06:23
+
+====================================

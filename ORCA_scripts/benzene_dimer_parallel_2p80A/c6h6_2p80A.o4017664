@@ -1,0 +1,451 @@
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 27]: Error TMatrixContainers::AddMatrix - Failed to add 28 11 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc27
+
+[cx3-14-21:2732789] *** Process received signal ***
+[cx3-14-21:2732789] Signal: Aborted (6)
+[cx3-14-21:2732789] Signal code:  (-6)
+[cx3-14-21:2732789] [ 0] /lib64/libc.so.6(+0x4e630)[0x151b4c7a6630]
+[cx3-14-21:2732789] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x151b4c7a65af]
+[cx3-14-21:2732789] [ 2] /lib64/libc.so.6(abort+0x127)[0x151b4c779ee5]
+[cx3-14-21:2732789] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x151b518fb020]
+[cx3-14-21:2732789] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x151b513d55d1]
+[cx3-14-21:2732789] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732789] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732789] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732789] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x151b4c792865]
+[cx3-14-21:2732789] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732789] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 14]: Error TMatrixContainers::AddMatrix - Failed to add 20 14 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc14
+
+[cx3-14-21:2732773] *** Process received signal ***
+[cx3-14-21:2732773] Signal: Aborted (6)
+[cx3-14-21:2732773] Signal code:  (-6)
+[cx3-14-21:2732773] [ 0] /lib64/libc.so.6(+0x4e630)[0x1501c78b3630]
+[cx3-14-21:2732773] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1501c78b35af]
+[cx3-14-21:2732773] [ 2] /lib64/libc.so.6(abort+0x127)[0x1501c7886ee5]
+[cx3-14-21:2732773] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1501cca08020]
+[cx3-14-21:2732773] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x1501cc4e25d1]
+[cx3-14-21:2732773] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732773] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732773] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732773] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1501c789f865]
+[cx3-14-21:2732773] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732773] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 26]: Error TMatrixContainers::AddMatrix - Failed to add 27 24 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc26
+
+[cx3-14-21:2732787] *** Process received signal ***
+[cx3-14-21:2732787] Signal: Aborted (6)
+[cx3-14-21:2732787] Signal code:  (-6)
+[cx3-14-21:2732787] [ 0] /lib64/libc.so.6(+0x4e630)[0x1544e33a5630]
+[cx3-14-21:2732787] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1544e33a55af]
+[cx3-14-21:2732787] [ 2] /lib64/libc.so.6(abort+0x127)[0x1544e3378ee5]
+[cx3-14-21:2732787] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1544e84fa020]
+[cx3-14-21:2732787] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x1544e7fd45d1]
+[cx3-14-21:2732787] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732787] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732787] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732787] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1544e3391865]
+[cx3-14-21:2732787] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732787] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 15]: Error TMatrixContainers::AddMatrix - Failed to add 21 5 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc15
+
+[cx3-14-21:2732775] *** Process received signal ***
+[cx3-14-21:2732775] Signal: Aborted (6)
+[cx3-14-21:2732775] Signal code:  (-6)
+[cx3-14-21:2732775] [ 0] /lib64/libc.so.6(+0x4e630)[0x149e7d31b630]
+[cx3-14-21:2732775] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x149e7d31b5af]
+[cx3-14-21:2732775] [ 2] /lib64/libc.so.6(abort+0x127)[0x149e7d2eeee5]
+[cx3-14-21:2732775] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x149e82470020]
+[cx3-14-21:2732775] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x149e81f4a5d1]
+[cx3-14-21:2732775] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732775] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732775] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732775] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x149e7d307865]
+[cx3-14-21:2732775] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732775] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 25]: Error TMatrixContainers::AddMatrix - Failed to add 27 9 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc25
+
+[cx3-14-21:2732783] *** Process received signal ***
+[cx3-14-21:2732783] Signal: Aborted (6)
+[cx3-14-21:2732783] Signal code:  (-6)
+[cx3-14-21:2732783] [ 0] /lib64/libc.so.6(+0x4e630)[0x14c20018e630]
+[cx3-14-21:2732783] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14c20018e5af]
+[cx3-14-21:2732783] [ 2] /lib64/libc.so.6(abort+0x127)[0x14c200161ee5]
+[cx3-14-21:2732783] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14c2052e3020]
+[cx3-14-21:2732783] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x14c204dbd5d1]
+[cx3-14-21:2732783] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732783] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732783] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732783] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14c20017a865]
+[cx3-14-21:2732783] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732783] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 16]: Error TMatrixContainers::AddMatrix - Failed to add 21 20 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc16
+
+[cx3-14-21:2732778] *** Process received signal ***
+[cx3-14-21:2732778] Signal: Aborted (6)
+[cx3-14-21:2732778] Signal code:  (-6)
+[cx3-14-21:2732778] [ 0] /lib64/libc.so.6(+0x4e630)[0x14d02d36a630]
+[cx3-14-21:2732778] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14d02d36a5af]
+[cx3-14-21:2732778] [ 2] /lib64/libc.so.6(abort+0x127)[0x14d02d33dee5]
+[cx3-14-21:2732778] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14d0324bf020]
+[cx3-14-21:2732778] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x14d031f995d1]
+[cx3-14-21:2732778] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732778] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732778] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732778] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14d02d356865]
+[cx3-14-21:2732778] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732778] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 21]: Error TMatrixContainers::AddMatrix - Failed to add 25 2 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc21
+
+[cx3-14-21:2732780] *** Process received signal ***
+[cx3-14-21:2732780] Signal: Aborted (6)
+[cx3-14-21:2732780] Signal code:  (-6)
+[cx3-14-21:2732780] [ 0] /lib64/libc.so.6(+0x4e630)[0x14734f2f2630]
+[cx3-14-21:2732780] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14734f2f25af]
+[cx3-14-21:2732780] [ 2] /lib64/libc.so.6(abort+0x127)[0x14734f2c5ee5]
+[cx3-14-21:2732780] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x147354447020]
+[cx3-14-21:2732780] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x147353f215d1]
+[cx3-14-21:2732780] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732780] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732780] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732780] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14734f2de865]
+[cx3-14-21:2732780] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732780] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 19]: Error TMatrixContainers::AddMatrix - Failed to add 23 20 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc19
+
+[cx3-14-21:2732779] *** Process received signal ***
+[cx3-14-21:2732779] Signal: Aborted (6)
+[cx3-14-21:2732779] Signal code:  (-6)
+[cx3-14-21:2732779] [ 0] /lib64/libc.so.6(+0x4e630)[0x14a829db6630]
+[cx3-14-21:2732779] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14a829db65af]
+[cx3-14-21:2732779] [ 2] /lib64/libc.so.6(abort+0x127)[0x14a829d89ee5]
+[cx3-14-21:2732779] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14a82ef0b020]
+[cx3-14-21:2732779] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x14a82e9e55d1]
+[cx3-14-21:2732779] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732779] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732779] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732779] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14a829da2865]
+[cx3-14-21:2732779] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732779] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 29]: Error TMatrixContainers::AddMatrix - Failed to add 29 12 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc29
+
+[cx3-14-21:2732786] *** Process received signal ***
+[cx3-14-21:2732786] Signal: Aborted (6)
+[cx3-14-21:2732786] Signal code:  (-6)
+[cx3-14-21:2732786] [ 0] /lib64/libc.so.6(+0x4e630)[0x15207c541630]
+[cx3-14-21:2732786] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x15207c5415af]
+[cx3-14-21:2732786] [ 2] /lib64/libc.so.6(abort+0x127)[0x15207c514ee5]
+[cx3-14-21:2732786] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x152081696020]
+[cx3-14-21:2732786] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x1520811705d1]
+[cx3-14-21:2732786] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732786] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732786] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732786] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x15207c52d865]
+[cx3-14-21:2732786] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732786] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 0]: Error TMatrixContainers::AddMatrix - Failed to add 4 4 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc0
+
+[cx3-14-21:2732762] *** Process received signal ***
+[cx3-14-21:2732762] Signal: Aborted (6)
+[cx3-14-21:2732762] Signal code:  (-6)
+[cx3-14-21:2732762] [ 0] /lib64/libc.so.6(+0x4e630)[0x1484a52d8630]
+[cx3-14-21:2732762] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1484a52d85af]
+[cx3-14-21:2732762] [ 2] /lib64/libc.so.6(abort+0x127)[0x1484a52abee5]
+[cx3-14-21:2732762] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1484aa42d020]
+[cx3-14-21:2732762] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x1484a9f075d1]
+[cx3-14-21:2732762] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732762] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732762] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732762] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1484a52c4865]
+[cx3-14-21:2732762] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732762] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 10]: Error TMatrixContainers::AddMatrix - Failed to add 17 11 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc10
+
+[cx3-14-21:2732769] *** Process received signal ***
+[cx3-14-21:2732769] Signal: Aborted (6)
+[cx3-14-21:2732769] Signal code:  (-6)
+[cx3-14-21:2732769] [ 0] /lib64/libc.so.6(+0x4e630)[0x149223ed3630]
+[cx3-14-21:2732769] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x149223ed35af]
+[cx3-14-21:2732769] [ 2] /lib64/libc.so.6(abort+0x127)[0x149223ea6ee5]
+[cx3-14-21:2732769] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x149229028020]
+[cx3-14-21:2732769] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x149228b025d1]
+[cx3-14-21:2732769] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732769] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732769] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732769] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x149223ebf865]
+[cx3-14-21:2732769] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732769] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 30]: Error TMatrixContainers::AddMatrix - Failed to add 29 27 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc30
+
+[cx3-14-21:2732790] *** Process received signal ***
+[cx3-14-21:2732790] Signal: Aborted (6)
+[cx3-14-21:2732790] Signal code:  (-6)
+[cx3-14-21:2732790] [ 0] /lib64/libc.so.6(+0x4e630)[0x149b04f9e630]
+[cx3-14-21:2732790] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x149b04f9e5af]
+[cx3-14-21:2732790] [ 2] /lib64/libc.so.6(abort+0x127)[0x149b04f71ee5]
+[cx3-14-21:2732790] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x149b0a0f3020]
+[cx3-14-21:2732790] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x149b09bcd5d1]
+[cx3-14-21:2732790] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732790] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732790] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732790] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x149b04f8a865]
+[cx3-14-21:2732790] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732790] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 17]: Error TMatrixContainers::AddMatrix - Failed to add 22 14 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc17
+
+[cx3-14-21:2732776] *** Process received signal ***
+[cx3-14-21:2732776] Signal: Aborted (6)
+[cx3-14-21:2732776] Signal code:  (-6)
+[cx3-14-21:2732776] [ 0] /lib64/libc.so.6(+0x4e630)[0x14eca8290630]
+[cx3-14-21:2732776] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14eca82905af]
+[cx3-14-21:2732776] [ 2] /lib64/libc.so.6(abort+0x127)[0x14eca8263ee5]
+[cx3-14-21:2732776] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14ecad3e5020]
+[cx3-14-21:2732776] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x14ecacebf5d1]
+[cx3-14-21:2732776] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732776] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732776] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732776] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14eca827c865]
+[cx3-14-21:2732776] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732776] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 18]: Error TMatrixContainers::AddMatrix - Failed to add 23 5 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc18
+
+[cx3-14-21:2732777] *** Process received signal ***
+[cx3-14-21:2732777] Signal: Aborted (6)
+[cx3-14-21:2732777] Signal code:  (-6)
+[cx3-14-21:2732777] [ 0] /lib64/libc.so.6(+0x4e630)[0x14cd9a298630]
+[cx3-14-21:2732777] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14cd9a2985af]
+[cx3-14-21:2732777] [ 2] /lib64/libc.so.6(abort+0x127)[0x14cd9a26bee5]
+[cx3-14-21:2732777] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14cd9f3ed020]
+[cx3-14-21:2732777] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x14cd9eec75d1]
+[cx3-14-21:2732777] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732777] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732777] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732777] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14cd9a284865]
+[cx3-14-21:2732777] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732777] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 20]: Error TMatrixContainers::AddMatrix - Failed to add 24 13 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc20
+
+[cx3-14-21:2732781] *** Process received signal ***
+[cx3-14-21:2732781] Signal: Aborted (6)
+[cx3-14-21:2732781] Signal code:  (-6)
+[cx3-14-21:2732781] [ 0] /lib64/libc.so.6(+0x4e630)[0x15392d0d2630]
+[cx3-14-21:2732781] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x15392d0d25af]
+[cx3-14-21:2732781] [ 2] /lib64/libc.so.6(abort+0x127)[0x15392d0a5ee5]
+[cx3-14-21:2732781] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x153932227020]
+[cx3-14-21:2732781] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x153931d015d1]
+[cx3-14-21:2732781] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732781] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732781] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732781] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x15392d0be865]
+[cx3-14-21:2732781] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732781] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 22]: Error TMatrixContainers::AddMatrix - Failed to add 25 18 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc22
+
+[cx3-14-21:2732782] *** Process received signal ***
+[cx3-14-21:2732782] Signal: Aborted (6)
+[cx3-14-21:2732782] Signal code:  (-6)
+[cx3-14-21:2732782] [ 0] /lib64/libc.so.6(+0x4e630)[0x1494ce8df630]
+[cx3-14-21:2732782] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1494ce8df5af]
+[cx3-14-21:2732782] [ 2] /lib64/libc.so.6(abort+0x127)[0x1494ce8b2ee5]
+[cx3-14-21:2732782] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1494d3a34020]
+[cx3-14-21:2732782] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x1494d350e5d1]
+[cx3-14-21:2732782] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732782] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732782] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732782] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1494ce8cb865]
+[cx3-14-21:2732782] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732782] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 24]: Error TMatrixContainers::AddMatrix - Failed to add 26 22 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc24
+
+[cx3-14-21:2732785] *** Process received signal ***
+[cx3-14-21:2732785] Signal: Aborted (6)
+[cx3-14-21:2732785] Signal code:  (-6)
+[cx3-14-21:2732785] [ 0] /lib64/libc.so.6(+0x4e630)[0x15321a5e0630]
+[cx3-14-21:2732785] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x15321a5e05af]
+[cx3-14-21:2732785] [ 2] /lib64/libc.so.6(abort+0x127)[0x15321a5b3ee5]
+[cx3-14-21:2732785] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x15321f735020]
+[cx3-14-21:2732785] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x15321f20f5d1]
+[cx3-14-21:2732785] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732785] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732785] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732785] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x15321a5cc865]
+[cx3-14-21:2732785] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732785] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 28]: Error TMatrixContainers::AddMatrix - Failed to add 28 26 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc28
+
+[cx3-14-21:2732788] *** Process received signal ***
+[cx3-14-21:2732788] Signal: Aborted (6)
+[cx3-14-21:2732788] Signal code:  (-6)
+[cx3-14-21:2732788] [ 0] /lib64/libc.so.6(+0x4e630)[0x152ada105630]
+[cx3-14-21:2732788] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x152ada1055af]
+[cx3-14-21:2732788] [ 2] /lib64/libc.so.6(abort+0x127)[0x152ada0d8ee5]
+[cx3-14-21:2732788] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x152adf25a020]
+[cx3-14-21:2732788] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x152aded345d1]
+[cx3-14-21:2732788] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732788] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732788] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732788] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x152ada0f1865]
+[cx3-14-21:2732788] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732788] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 1]: Error TMatrixContainers::AddMatrix - Failed to add 6 5 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc1
+
+[cx3-14-21:2732761] *** Process received signal ***
+[cx3-14-21:2732761] Signal: Aborted (6)
+[cx3-14-21:2732761] Signal code:  (-6)
+[cx3-14-21:2732761] [ 0] /lib64/libc.so.6(+0x4e630)[0x1478b0908630]
+[cx3-14-21:2732761] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1478b09085af]
+[cx3-14-21:2732761] [ 2] /lib64/libc.so.6(abort+0x127)[0x1478b08dbee5]
+[cx3-14-21:2732761] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1478b5a5d020]
+[cx3-14-21:2732761] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x1478b55375d1]
+[cx3-14-21:2732761] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732761] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732761] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732761] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1478b08f4865]
+[cx3-14-21:2732761] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732761] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 2]: Error TMatrixContainers::AddMatrix - Failed to add 8 7 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc2
+
+[cx3-14-21:2732763] *** Process received signal ***
+[cx3-14-21:2732763] Signal: Aborted (6)
+[cx3-14-21:2732763] Signal code:  (-6)
+[cx3-14-21:2732763] [ 0] /lib64/libc.so.6(+0x4e630)[0x148c54017630]
+[cx3-14-21:2732763] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x148c540175af]
+[cx3-14-21:2732763] [ 2] /lib64/libc.so.6(abort+0x127)[0x148c53feaee5]
+[cx3-14-21:2732763] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x148c5916c020]
+[cx3-14-21:2732763] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x148c58c465d1]
+[cx3-14-21:2732763] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732763] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732763] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732763] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x148c54003865]
+[cx3-14-21:2732763] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732763] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 5]: Error TMatrixContainers::AddMatrix - Failed to add 12 11 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc5
+
+[cx3-14-21:2732765] *** Process received signal ***
+[cx3-14-21:2732765] Signal: Aborted (6)
+[cx3-14-21:2732765] Signal code:  (-6)
+[cx3-14-21:2732765] [ 0] /lib64/libc.so.6(+0x4e630)[0x14a7e28ee630]
+[cx3-14-21:2732765] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14a7e28ee5af]
+[cx3-14-21:2732765] [ 2] /lib64/libc.so.6(abort+0x127)[0x14a7e28c1ee5]
+[cx3-14-21:2732765] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14a7e7a43020]
+[cx3-14-21:2732765] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x14a7e751d5d1]
+[cx3-14-21:2732765] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732765] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732765] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732765] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14a7e28da865]
+[cx3-14-21:2732765] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732765] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 7]: Error TMatrixContainers::AddMatrix - Failed to add 14 13 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc7
+
+[cx3-14-21:2732764] *** Process received signal ***
+[cx3-14-21:2732764] Signal: Aborted (6)
+[cx3-14-21:2732764] Signal code:  (-6)
+[cx3-14-21:2732764] [ 0] /lib64/libc.so.6(+0x4e630)[0x14e8f9f48630]
+[cx3-14-21:2732764] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14e8f9f485af]
+[cx3-14-21:2732764] [ 2] /lib64/libc.so.6(abort+0x127)[0x14e8f9f1bee5]
+[cx3-14-21:2732764] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14e8ff09d020]
+[cx3-14-21:2732764] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x14e8feb775d1]
+[cx3-14-21:2732764] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732764] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732764] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732764] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14e8f9f34865]
+[cx3-14-21:2732764] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732764] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 8]: Error TMatrixContainers::AddMatrix - Failed to add 15 14 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc8
+
+[cx3-14-21:2732770] *** Process received signal ***
+[cx3-14-21:2732770] Signal: Aborted (6)
+[cx3-14-21:2732770] Signal code:  (-6)
+[cx3-14-21:2732770] [ 0] /lib64/libc.so.6(+0x4e630)[0x14fcc39c9630]
+[cx3-14-21:2732770] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14fcc39c95af]
+[cx3-14-21:2732770] [ 2] /lib64/libc.so.6(abort+0x127)[0x14fcc399cee5]
+[cx3-14-21:2732770] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14fcc8b1e020]
+[cx3-14-21:2732770] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x14fcc85f85d1]
+[cx3-14-21:2732770] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732770] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732770] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732770] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14fcc39b5865]
+[cx3-14-21:2732770] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732770] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 9]: Error TMatrixContainers::AddMatrix - Failed to add 16 10 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc9
+
+[cx3-14-21:2732768] *** Process received signal ***
+[cx3-14-21:2732768] Signal: Aborted (6)
+[cx3-14-21:2732768] Signal code:  (-6)
+[cx3-14-21:2732768] [ 0] /lib64/libc.so.6(+0x4e630)[0x145ad5432630]
+[cx3-14-21:2732768] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x145ad54325af]
+[cx3-14-21:2732768] [ 2] /lib64/libc.so.6(abort+0x127)[0x145ad5405ee5]
+[cx3-14-21:2732768] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x145ada587020]
+[cx3-14-21:2732768] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x145ada0615d1]
+[cx3-14-21:2732768] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732768] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732768] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732768] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x145ad541e865]
+[cx3-14-21:2732768] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732768] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 11]: Error TMatrixContainers::AddMatrix - Failed to add 18 6 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc11
+
+[cx3-14-21:2732771] *** Process received signal ***
+[cx3-14-21:2732771] Signal: Aborted (6)
+[cx3-14-21:2732771] Signal code:  (-6)
+[cx3-14-21:2732771] [ 0] /lib64/libc.so.6(+0x4e630)[0x148f77553630]
+[cx3-14-21:2732771] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x148f775535af]
+[cx3-14-21:2732771] [ 2] /lib64/libc.so.6(abort+0x127)[0x148f77526ee5]
+[cx3-14-21:2732771] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x148f7c6a8020]
+[cx3-14-21:2732771] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x148f7c1825d1]
+[cx3-14-21:2732771] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732771] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732771] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732771] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x148f7753f865]
+[cx3-14-21:2732771] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732771] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 12]: Error TMatrixContainers::AddMatrix - Failed to add 19 4 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc12
+
+[cx3-14-21:2732774] *** Process received signal ***
+[cx3-14-21:2732774] Signal: Aborted (6)
+[cx3-14-21:2732774] Signal code:  (-6)
+[cx3-14-21:2732774] [ 0] /lib64/libc.so.6(+0x4e630)[0x14ca83809630]
+[cx3-14-21:2732774] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14ca838095af]
+[cx3-14-21:2732774] [ 2] /lib64/libc.so.6(abort+0x127)[0x14ca837dcee5]
+[cx3-14-21:2732774] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14ca8895e020]
+[cx3-14-21:2732774] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x14ca884385d1]
+[cx3-14-21:2732774] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732774] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732774] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732774] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14ca837f5865]
+[cx3-14-21:2732774] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732774] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 13]: Error TMatrixContainers::AddMatrix - Failed to add 19 16 to benzene_dimer_parallel_2p80A.PAO_V12.tmp.proc13
+
+[cx3-14-21:2732772] *** Process received signal ***
+[cx3-14-21:2732772] Signal: Aborted (6)
+[cx3-14-21:2732772] Signal code:  (-6)
+[cx3-14-21:2732772] [ 0] /lib64/libc.so.6(+0x4e630)[0x14a95be3d630]
+[cx3-14-21:2732772] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14a95be3d5af]
+[cx3-14-21:2732772] [ 2] /lib64/libc.so.6(abort+0x127)[0x14a95be10ee5]
+[cx3-14-21:2732772] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14a960f92020]
+[cx3-14-21:2732772] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x14a960a6c5d1]
+[cx3-14-21:2732772] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5bf552]
+[cx3-14-21:2732772] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2732772] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2732772] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14a95be29865]
+[cx3-14-21:2732772] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2732772] *** End of error message ***
+--------------------------------------------------------------------------
+mpirun noticed that process rank 27 with PID 0 on node cx3-14-21 exited on signal 6 (Aborted).
+--------------------------------------------------------------------------
+[file orca_tools/qcmsg.cpp, line 394]: 
+  .... aborting the run
+
+
+====================================
+CPU Time used: 02:21:44
+CPU Percent: 3177%
+Memory usage: 7442864kb
+Approx Power usage: 0.028200000000000003
+Walltime usage: 00:05:48
+
+====================================

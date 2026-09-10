@@ -1,0 +1,38 @@
+[file orca_tools/qcmat1.cpp, line 157, Process 0]: Failed to write data of OrcaObject (wrote 1021 items of 3326976)!
+[cx3-14-16:3242259] *** Process received signal ***
+[cx3-14-16:3242259] Signal: Aborted (6)
+[cx3-14-16:3242259] Signal code:  (-6)
+[cx3-14-16:3242259] [ 0] /lib64/libc.so.6(+0x4e630)[0x14814daa7630]
+[cx3-14-16:3242259] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14814daa75af]
+[cx3-14-16:3242259] [ 2] /lib64/libc.so.6(abort+0x127)[0x14814da7aee5]
+[cx3-14-16:3242259] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x148152bfc020]
+[cx3-14-16:3242259] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z19AbortMessageFmtFunciPKciS0_z+0xb3)[0x14814ed5bb03]
+[cx3-14-16:3242259] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZNK7TMatrixIdE5StoreEPKc+0x145)[0x14814ed04505]
+[cx3-14-16:3242259] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZNK13TSharedMatrixIdE5StoreEPKc+0x1b)[0x14814ed4745b]
+[cx3-14-16:3242259] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN15TSharkInterface12CheckVMatrixER14TSharkAuxBasisPcS2_S2_b+0x43)[0x14815559ce03]
+[cx3-14-16:3242259] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z31SHARK_InitializeAuxiliaryMetricR13TORCAPointersR15TSharkInterface13SHARK_AuxTypeR10TMatrixSymIdE+0x129)[0x14814ef6be39]
+[cx3-14-16:3242259] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x13a4)[0x14814ef6ed94]
+[cx3-14-16:3242259] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-16:3242259] [11] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-16:3242259] [12] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14814da93865]
+[cx3-14-16:3242259] [13] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-16:3242259] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 0 on node cx3-14-16 exited on signal 6 (Aborted).
+--------------------------------------------------------------------------
+[file orca_tools/qcmsg.cpp, line 394]: 
+  .... aborting the run
+
+
+====================================
+CPU Time used: 00:00:36
+CPU Percent: 278%
+Memory usage: 2079864kb
+Approx Power usage: 0.0
+Walltime usage: 00:00:17
+
+====================================

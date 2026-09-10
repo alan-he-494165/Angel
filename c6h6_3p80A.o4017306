@@ -1,0 +1,503 @@
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+!!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-26:3635982] *** Process received signal ***
+[cx3-14-26:3635982] Signal: Aborted (6)
+[cx3-14-26:3635982] Signal code:  (-6)
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+!!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-26:3635998] *** Process received signal ***
+[cx3-14-26:3635998] Signal: Aborted (6)
+[cx3-14-26:3635998] Signal code:  (-6)
+[cx3-14-26:3635982] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x1475a58d35b0]
+[cx3-14-26:3635982] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1475a58d352f]
+[cx3-14-26:3635982] [ 2] /lib64/libc.so.6(abort+0x127)[0x1475a58a6e65]
+[cx3-14-26:3635982] [ 3] [cx3-14-26:3635998] [ 0] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+!!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+/lib64/libc.so.6(+0x4e5b0)[0x14eb37f675b0]
+[cx3-14-26:3635998] [ 1] [cx3-14-26:3635995] *** Process received signal ***
+[cx3-14-26:3635995] Signal: Aborted (6)
+[cx3-14-26:3635995] Signal code:  (-6)
+/lib64/libc.so.6(gsignal+0x10f)[0x14eb37f6752f]
+[cx3-14-26:3635998] [ 2] /lib64/libc.so.6(abort+0x127)[0x14eb37f3ae65]
+[cx3-14-26:3635998] [ 3] [cx3-14-26:3635995] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14eed4f5b5b0]
+[cx3-14-26:3635995] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14eed4f5b52f]
+[cx3-14-26:3635995] [ 2] /lib64/libc.so.6(abort+0x127)[0x14eed4f2ee65]
+[cx3-14-26:3635995] [ 3] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+!!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-26:3635976] *** Process received signal ***
+[cx3-14-26:3635976] Signal: Aborted (6)
+[cx3-14-26:3635976] Signal code:  (-6)
+[cx3-14-26:3635976] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14c0447cb5b0]
+[cx3-14-26:3635976] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14c0447cb52f]
+[cx3-14-26:3635976] [ 2] /lib64/libc.so.6(abort+0x127)[0x14c04479ee65]
+[cx3-14-26:3635976] [ 3] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+!!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-26:3635997] *** Process received signal ***
+[cx3-14-26:3635997] Signal: Aborted (6)
+[cx3-14-26:3635997] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1475aaa29020]
+[cx3-14-26:3635982] [ 4] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+!!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14eb3d0bd020]
+[cx3-14-26:3635998] [ 4] [cx3-14-26:3635997] [ 0] [cx3-14-26:3635996] *** Process received signal ***
+/lib64/libc.so.6(+0x4e5b0)[0x14dde65c35b0]
+[cx3-14-26:3635997] [ 1] [cx3-14-26:3635996] Signal: Aborted (6)
+[cx3-14-26:3635996] Signal code:  (-6)
+/lib64/libc.so.6(gsignal+0x10f)[0x14dde65c352f]
+[cx3-14-26:3635997] [ 2] /lib64/libc.so.6(abort+0x127)[0x14dde6596e65]
+[cx3-14-26:3635997] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14eeda0b1020]
+[cx3-14-26:3635995] [ 4] [cx3-14-26:3635996] [ 0] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+!!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+/lib64/libc.so.6(+0x4e5b0)[0x145aa21815b0]
+[cx3-14-26:3635996] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x145aa218152f]
+[cx3-14-26:3635996] [ 2] /lib64/libc.so.6(abort+0x127)[0x145aa2154e65]
+[cx3-14-26:3635996] [ 3] [cx3-14-26:3635980] *** Process received signal ***
+[cx3-14-26:3635980] Signal: Aborted (6)
+[cx3-14-26:3635980] Signal code:  (-6)
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+!!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-26:3635980] [ 0] [cx3-14-26:3635985] *** Process received signal ***
+[cx3-14-26:3635985] Signal: Aborted (6)
+[cx3-14-26:3635985] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14c049921020]
+[cx3-14-26:3635976] [ 4] /lib64/libc.so.6(+0x4e5b0)[0x14fb1bfff5b0]
+[cx3-14-26:3635980] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14fb1bfff52f]
+[cx3-14-26:3635980] [ 2] /lib64/libc.so.6(abort+0x127)[0x14fb1bfd2e65]
+[cx3-14-26:3635980] [ 3] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+[cx3-14-26:3635985] [ 0] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x1475aa8a824d]
+[cx3-14-26:3635982] [ 5] !!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+/lib64/libc.so.6(+0x4e5b0)[0x15387be685b0]
+[cx3-14-26:3635985] [ 1] [cx3-14-26:3635989] *** Process received signal ***
+[cx3-14-26:3635989] Signal: Aborted (6)
+[cx3-14-26:3635989] Signal code:  (-6)
+/lib64/libc.so.6(gsignal+0x10f)[0x15387be6852f]
+[cx3-14-26:3635985] [ 2] /lib64/libc.so.6(abort+0x127)[0x15387be3be65]
+[cx3-14-26:3635985] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x14eb3cf3c24d]
+[cx3-14-26:3635998] [ 5] [cx3-14-26:3635989] [ 0] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14ddeb719020]
+[cx3-14-26:3635997] [ 4] /lib64/libc.so.6(+0x4e5b0)[0x152e569385b0]
+[cx3-14-26:3635989] [ 1] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x14eed9f3024d]
+[cx3-14-26:3635995] [ 5] /lib64/libc.so.6(gsignal+0x10f)[0x152e5693852f]
+[cx3-14-26:3635989] [ 2] /lib64/libc.so.6(abort+0x127)[0x152e5690be65]
+[cx3-14-26:3635989] [ 3] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+!!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-26:3636001] *** Process received signal ***
+[cx3-14-26:3636001] Signal: Aborted (6)
+[cx3-14-26:3636001] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x145aa72d7020]
+[cx3-14-26:3635996] [ 4] [cx3-14-26:3636001] [ 0] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+/lib64/libc.so.6(+0x4e5b0)[0x148d599445b0]
+[cx3-14-26:3636001] [ 1] !!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+/lib64/libc.so.6(gsignal+0x10f)[0x148d5994452f]
+[cx3-14-26:3636001] [ 2] /lib64/libc.so.6(abort+0x127)[0x148d59917e65]
+[cx3-14-26:3636001] [ 3] [cx3-14-26:3635974] *** Process received signal ***
+[cx3-14-26:3635974] Signal: Aborted (6)
+[cx3-14-26:3635974] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x1475a6d96e98]
+[cx3-14-26:3635982] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x14c0497a024d]
+[cx3-14-26:3635976] [ 5] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14fb21155020]
+[cx3-14-26:3635980] [ 4] !!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-26:3635974] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x1535afbe15b0]
+[cx3-14-26:3635974] [ 1] [cx3-14-26:3635983] *** Process received signal ***
+[cx3-14-26:3635983] Signal: Aborted (6)
+[cx3-14-26:3635983] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14eb3942ae98]
+[cx3-14-26:3635998] [ 6] /lib64/libc.so.6(gsignal+0x10f)[0x1535afbe152f]
+[cx3-14-26:3635974] [ 2] /lib64/libc.so.6(abort+0x127)[0x1535afbb4e65]
+[cx3-14-26:3635974] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x153880fbe020]
+[cx3-14-26:3635985] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14eed641ee98]
+[cx3-14-26:3635995] [ 6] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+!!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-26:3635983] [ 0] [cx3-14-26:3635970] *** Process received signal ***
+[cx3-14-26:3635970] Signal: Aborted (6)
+[cx3-14-26:3635970] Signal code:  (-6)
+/lib64/libc.so.6(+0x4e5b0)[0x15046c75c5b0]
+[cx3-14-26:3635983] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x15046c75c52f]
+[cx3-14-26:3635983] [ 2] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x14ddeb59824d]
+[cx3-14-26:3635997] [ 5] /lib64/libc.so.6(abort+0x127)[0x15046c72fe65]
+[cx3-14-26:3635983] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x152e5ba8e020]
+[cx3-14-26:3635989] [ 4] [cx3-14-26:3635970] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14ece033e5b0]
+[cx3-14-26:3635970] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14ece033e52f]
+[cx3-14-26:3635970] [ 2] /lib64/libc.so.6(abort+0x127)[0x14ece0311e65]
+[cx3-14-26:3635970] [ 3] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+!!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-26:3635979] *** Process received signal ***
+[cx3-14-26:3635979] Signal: Aborted (6)
+[cx3-14-26:3635979] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x145aa715624d]
+[cx3-14-26:3635996] [ 5] [cx3-14-26:3635979] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x145c7f07d5b0]
+[cx3-14-26:3635979] [ 1] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x1475a6d9cddb]
+[cx3-14-26:3635982] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3635982] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3635982] [ 9] /lib64/libc.so.6(gsignal+0x10f)[0x145c7f07d52f]
+[cx3-14-26:3635979] [ 2] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14c045c8ee98]
+[cx3-14-26:3635976] [ 6] /lib64/libc.so.6(abort+0x127)[0x145c7f050e65]
+[cx3-14-26:3635979] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x148d5ea9a020]
+[cx3-14-26:3636001] [ 4] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+/lib64/libc.so.6(__libc_start_main+0xe5)[0x1475a58bf7e5]
+[cx3-14-26:3635982] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3635982] *** End of error message ***
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+!!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-26:3635987] *** Process received signal ***
+[cx3-14-26:3635987] Signal: Aborted (6)
+[cx3-14-26:3635987] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14eb39430ddb]
+[cx3-14-26:3635998] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3635998] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3635998] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14eb37f537e5]
+[cx3-14-26:3635998] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3635998] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x14fb20fd424d]
+[cx3-14-26:3635980] [ 5] [cx3-14-26:3635987] [ 0] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14eed6424ddb]
+[cx3-14-26:3635995] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3635995] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3635995] [ 9] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+/lib64/libc.so.6(__libc_start_main+0xe5)[0x14eed4f477e5]
+[cx3-14-26:3635995] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3635995] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1535b4d37020]
+[cx3-14-26:3635974] [ 4] !!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+/lib64/libc.so.6(+0x4e5b0)[0x146cc5b265b0]
+[cx3-14-26:3635987] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x146cc5b2652f]
+[cx3-14-26:3635987] [ 2] /lib64/libc.so.6(abort+0x127)[0x146cc5af9e65]
+[cx3-14-26:3635987] [ 3] [cx3-14-26:3635988] *** Process received signal ***
+[cx3-14-26:3635988] Signal: Aborted (6)
+[cx3-14-26:3635988] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x153880e3d24d]
+[cx3-14-26:3635985] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14dde7a86e98]
+[cx3-14-26:3635997] [ 6] [cx3-14-26:3635988] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14828ceb95b0]
+[cx3-14-26:3635988] [ 1] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1504718b2020]
+[cx3-14-26:3635983] [ 4] /lib64/libc.so.6(gsignal+0x10f)[0x14828ceb952f]
+[cx3-14-26:3635988] [ 2] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x152e5b90d24d]
+[cx3-14-26:3635989] [ 5] /lib64/libc.so.6(abort+0x127)[0x14828ce8ce65]
+[cx3-14-26:3635988] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x145aa3644e98]
+[cx3-14-26:3635996] [ 6] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+!!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-26:3635993] *** Process received signal ***
+[cx3-14-26:3635993] Signal: Aborted (6)
+[cx3-14-26:3635993] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14ece5494020]
+[cx3-14-26:3635970] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14c045c94ddb]
+[cx3-14-26:3635976] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3635976] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3635976] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14c0447b77e5]
+[cx3-14-26:3635976] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3635976] *** End of error message ***
+[cx3-14-26:3635993] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14b3807405b0]
+[cx3-14-26:3635993] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14b38074052f]
+[cx3-14-26:3635993] [ 2] /lib64/libc.so.6(abort+0x127)[0x14b380713e65]
+[cx3-14-26:3635993] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x148d5e91924d]
+[cx3-14-26:3636001] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14fb1d4c2e98]
+[cx3-14-26:3635980] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x145c841d3020]
+[cx3-14-26:3635979] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14dde7a8cddb]
+[cx3-14-26:3635997] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3635997] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3635997] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x15387d32be98]
+[cx3-14-26:3635985] [ 6] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14dde65af7e5]
+[cx3-14-26:3635997] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3635997] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x146ccac7c020]
+[cx3-14-26:3635987] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x146ccaafb24d]
+[cx3-14-26:3635987] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x146cc6fe9e98]
+[cx3-14-26:3635987] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x146cc6fefddb]
+[cx3-14-26:3635987] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3635987] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3635987] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x146cc5b127e5]
+[cx3-14-26:3635987] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3635987] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14fb1d4c8ddb]
+[cx3-14-26:3635980] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3635980] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3635980] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14fb1bfeb7e5]
+[cx3-14-26:3635980] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3635980] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x15387d331ddb]
+[cx3-14-26:3635985] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3635985] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3635985] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x15387be547e5]
+[cx3-14-26:3635985] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3635985] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14829200f020]
+[cx3-14-26:3635988] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x148291e8e24d]
+[cx3-14-26:3635988] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14828e37ce98]
+[cx3-14-26:3635988] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14828e382ddb]
+[cx3-14-26:3635988] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3635988] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3635988] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14828cea57e5]
+[cx3-14-26:3635988] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3635988] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x14ece531324d]
+[cx3-14-26:3635970] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14ece1801e98]
+[cx3-14-26:3635970] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14ece1807ddb]
+[cx3-14-26:3635970] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3635970] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3635970] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14ece032a7e5]
+[cx3-14-26:3635970] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3635970] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x1535b4bb624d]
+[cx3-14-26:3635974] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x1535b10a4e98]
+[cx3-14-26:3635974] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x1535b10aaddb]
+[cx3-14-26:3635974] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3635974] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3635974] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1535afbcd7e5]
+[cx3-14-26:3635974] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3635974] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14b385896020]
+[cx3-14-26:3635993] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x14b38571524d]
+[cx3-14-26:3635993] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14b381c03e98]
+[cx3-14-26:3635993] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14b381c09ddb]
+[cx3-14-26:3635993] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3635993] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3635993] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14b38072c7e5]
+[cx3-14-26:3635993] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3635993] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x145aa364addb]
+[cx3-14-26:3635996] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3635996] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3635996] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x145aa216d7e5]
+[cx3-14-26:3635996] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3635996] *** End of error message ***
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+!!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-26:3635991] *** Process received signal ***
+[cx3-14-26:3635991] Signal: Aborted (6)
+[cx3-14-26:3635991] Signal code:  (-6)
+[cx3-14-26:3635991] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x151f1f17f5b0]
+[cx3-14-26:3635991] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x151f1f17f52f]
+[cx3-14-26:3635991] [ 2] /lib64/libc.so.6(abort+0x127)[0x151f1f152e65]
+[cx3-14-26:3635991] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x151f242d5020]
+[cx3-14-26:3635991] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x151f2415424d]
+[cx3-14-26:3635991] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x151f20642e98]
+[cx3-14-26:3635991] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x148d5ae07e98]
+[cx3-14-26:3636001] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x148d5ae0dddb]
+[cx3-14-26:3636001] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3636001] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3636001] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x148d599307e5]
+[cx3-14-26:3636001] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3636001] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x152e57dfbe98]
+[cx3-14-26:3635989] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x152e57e01ddb]
+[cx3-14-26:3635989] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3635989] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3635989] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x152e569247e5]
+[cx3-14-26:3635989] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3635989] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x145c8405224d]
+[cx3-14-26:3635979] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x145c80540e98]
+[cx3-14-26:3635979] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x145c80546ddb]
+[cx3-14-26:3635979] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3635979] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3635979] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x145c7f0697e5]
+[cx3-14-26:3635979] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3635979] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x15047173124d]
+[cx3-14-26:3635983] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x15046dc1fe98]
+[cx3-14-26:3635983] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x15046dc25ddb]
+[cx3-14-26:3635983] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3635983] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3635983] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x15046c7487e5]
+[cx3-14-26:3635983] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3635983] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x151f20648ddb]
+[cx3-14-26:3635991] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3635991] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3635991] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x151f1f16b7e5]
+[cx3-14-26:3635991] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3635991] *** End of error message ***
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+!!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-26:3635972] *** Process received signal ***
+[cx3-14-26:3635972] Signal: Aborted (6)
+[cx3-14-26:3635972] Signal code:  (-6)
+[cx3-14-26:3635972] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x1464919715b0]
+[cx3-14-26:3635972] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14649197152f]
+[cx3-14-26:3635972] [ 2] /lib64/libc.so.6(abort+0x127)[0x146491944e65]
+[cx3-14-26:3635972] [ 3] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+!!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-26:3635992] *** Process received signal ***
+[cx3-14-26:3635992] Signal: Aborted (6)
+[cx3-14-26:3635992] Signal code:  (-6)
+[cx3-14-26:3635992] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14ee0c4425b0]
+[cx3-14-26:3635992] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14ee0c44252f]
+[cx3-14-26:3635992] [ 2] /lib64/libc.so.6(abort+0x127)[0x14ee0c415e65]
+[cx3-14-26:3635992] [ 3] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+!!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-26:3635973] *** Process received signal ***
+[cx3-14-26:3635973] Signal: Aborted (6)
+[cx3-14-26:3635973] Signal code:  (-6)
+[cx3-14-26:3635973] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14ad8ef5a5b0]
+[cx3-14-26:3635973] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14ad8ef5a52f]
+[cx3-14-26:3635973] [ 2] /lib64/libc.so.6(abort+0x127)[0x14ad8ef2de65]
+[cx3-14-26:3635973] [ 3] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                           CANNOT OPEN FILE                   !!!
+!!!               Filename: benzene_dimer_parallel_3p80A.grid.tmp                                   !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-26:3635975] *** Process received signal ***
+[cx3-14-26:3635975] Signal: Aborted (6)
+[cx3-14-26:3635975] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x146496ac7020]
+[cx3-14-26:3635972] [ 4] [cx3-14-26:3635975] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14fd5d8085b0]
+[cx3-14-26:3635975] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14fd5d80852f]
+[cx3-14-26:3635975] [ 2] /lib64/libc.so.6(abort+0x127)[0x14fd5d7dbe65]
+[cx3-14-26:3635975] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14ee11598020]
+[cx3-14-26:3635992] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14ad940b0020]
+[cx3-14-26:3635973] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x14649694624d]
+[cx3-14-26:3635972] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14fd6295e020]
+[cx3-14-26:3635975] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x14ee1141724d]
+[cx3-14-26:3635992] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x14ad93f2f24d]
+[cx3-14-26:3635973] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x146492e34e98]
+[cx3-14-26:3635972] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x67dd)[0x14fd627dd24d]
+[cx3-14-26:3635975] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14ee0d905e98]
+[cx3-14-26:3635992] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14ad9041de98]
+[cx3-14-26:3635973] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x146492e3addb]
+[cx3-14-26:3635972] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3635972] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3635972] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14649195d7e5]
+[cx3-14-26:3635972] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3635972] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14fd5eccbe98]
+[cx3-14-26:3635975] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14ee0d90bddb]
+[cx3-14-26:3635992] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3635992] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3635992] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14ee0c42e7e5]
+[cx3-14-26:3635992] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3635992] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14ad90423ddb]
+[cx3-14-26:3635973] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3635973] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3635973] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14ad8ef467e5]
+[cx3-14-26:3635973] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3635973] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14fd5ecd1ddb]
+[cx3-14-26:3635975] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-26:3635975] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-26:3635975] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14fd5d7f47e5]
+[cx3-14-26:3635975] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-26:3635975] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 23 with PID 0 on node cx3-14-26 exited on signal 6 (Aborted).
+--------------------------------------------------------------------------
+[file orca_tools/qcmsg.cpp, line 394]: 
+  .... aborting the run
+
+
+====================================
+CPU Time used: 00:00:00
+CPU Percent: 0%
+Memory usage: 0b
+Approx Power usage: 0.0
+Walltime usage: 00:00:18
+
+====================================

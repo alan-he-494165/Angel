@@ -1,0 +1,531 @@
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 29]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc29
+
+[cx3-14-21:2736957] *** Process received signal ***
+[cx3-14-21:2736957] Signal: Aborted (6)
+[cx3-14-21:2736957] Signal code:  (-6)
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 23]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc23
+
+[cx3-14-21:2736951] *** Process received signal ***
+[cx3-14-21:2736951] Signal: Aborted (6)
+[cx3-14-21:2736951] Signal code:  (-6)
+[cx3-14-21:2736951] [ 0] /lib64/libc.so.6(+0x4e630)[0x152759126630]
+[cx3-14-21:2736951] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1527591265af]
+[cx3-14-21:2736951] [ 2] /lib64/libc.so.6(abort+0x127)[0x1527590f9ee5]
+[cx3-14-21:2736951] [ 3] [file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 25]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc25
+
+[cx3-14-21:2736952] *** Process received signal ***
+[cx3-14-21:2736952] Signal: Aborted (6)
+[cx3-14-21:2736952] Signal code:  (-6)
+[cx3-14-21:2736952] [ 0] /lib64/libc.so.6(+0x4e630)[0x1476aec92630]
+[cx3-14-21:2736952] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1476aec925af]
+[cx3-14-21:2736952] [ 2] /lib64/libc.so.6(abort+0x127)[0x1476aec65ee5]
+[cx3-14-21:2736952] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1476b3de7020]
+[cx3-14-21:2736952] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x1476b38aed7b]
+[cx3-14-21:2736952] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736952] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736952] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736952] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1476aec7e865]
+[cx3-14-21:2736952] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736952] *** End of error message ***
+[cx3-14-21:2736957] [ 0] /lib64/libc.so.6(+0x4e630)[0x14b5a639c630]
+[cx3-14-21:2736957] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14b5a639c5af]
+[cx3-14-21:2736957] [ 2] /lib64/libc.so.6(abort+0x127)[0x14b5a636fee5]
+[cx3-14-21:2736957] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14b5ab4f1020]
+[cx3-14-21:2736957] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x14b5aafb8d7b]
+[cx3-14-21:2736957] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736957] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736957] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736957] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14b5a6388865]
+[cx3-14-21:2736957] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736957] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 9]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc9
+
+[cx3-14-21:2736939] *** Process received signal ***
+[cx3-14-21:2736939] Signal: Aborted (6)
+[cx3-14-21:2736939] Signal code:  (-6)
+[cx3-14-21:2736939] [ 0] /lib64/libc.so.6(+0x4e630)[0x14eb3a23b630]
+[cx3-14-21:2736939] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14eb3a23b5af]
+[cx3-14-21:2736939] [ 2] /lib64/libc.so.6(abort+0x127)[0x14eb3a20eee5]
+[cx3-14-21:2736939] [ 3] [file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 10]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc10
+
+[cx3-14-21:2736938] *** Process received signal ***
+[cx3-14-21:2736938] Signal: Aborted (6)
+[cx3-14-21:2736938] Signal code:  (-6)
+[cx3-14-21:2736938] [ 0] /lib64/libc.so.6(+0x4e630)[0x14e1ed6d1630]
+[cx3-14-21:2736938] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14e1ed6d15af]
+[cx3-14-21:2736938] [ 2] /lib64/libc.so.6(abort+0x127)[0x14e1ed6a4ee5]
+[cx3-14-21:2736938] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14e1f2826020]
+[cx3-14-21:2736938] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x14e1f22edd7b]
+[cx3-14-21:2736938] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736938] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736938] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736938] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14e1ed6bd865]
+[cx3-14-21:2736938] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736938] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 11]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc11
+
+[cx3-14-21:2736937] *** Process received signal ***
+[cx3-14-21:2736937] Signal: Aborted (6)
+[cx3-14-21:2736937] Signal code:  (-6)
+[cx3-14-21:2736937] [ 0] /lib64/libc.so.6(+0x4e630)[0x145b7f5ab630]
+[cx3-14-21:2736937] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x145b7f5ab5af]
+[cx3-14-21:2736937] [ 2] /lib64/libc.so.6(abort+0x127)[0x145b7f57eee5]
+[cx3-14-21:2736937] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x145b84700020]
+[cx3-14-21:2736937] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x145b841c7d7b]
+[cx3-14-21:2736937] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736937] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736937] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736937] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x145b7f597865]
+[cx3-14-21:2736937] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736937] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 16]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc16
+
+[cx3-14-21:2736948] *** Process received signal ***
+[cx3-14-21:2736948] Signal: Aborted (6)
+[cx3-14-21:2736948] Signal code:  (-6)
+[cx3-14-21:2736948] [ 0] /lib64/libc.so.6(+0x4e630)[0x14f856624630]
+[cx3-14-21:2736948] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14f8566245af]
+[cx3-14-21:2736948] [ 2] /lib64/libc.so.6(abort+0x127)[0x14f8565f7ee5]
+[cx3-14-21:2736948] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14f85b779020]
+[cx3-14-21:2736948] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x14f85b240d7b]
+[cx3-14-21:2736948] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736948] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736948] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736948] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14f856610865]
+[cx3-14-21:2736948] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736948] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14eb3f390020]
+[cx3-14-21:2736939] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x15275e27b020]
+[cx3-14-21:2736951] [ 4] [file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 2]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc2
+
+[cx3-14-21:2736929] *** Process received signal ***
+[cx3-14-21:2736929] Signal: Aborted (6)
+[cx3-14-21:2736929] Signal code:  (-6)
+[cx3-14-21:2736929] [ 0] /lib64/libc.so.6(+0x4e630)[0x14cce6f1b630]
+[cx3-14-21:2736929] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14cce6f1b5af]
+[cx3-14-21:2736929] [ 2] /lib64/libc.so.6(abort+0x127)[0x14cce6eeeee5]
+[cx3-14-21:2736929] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x14eb3ee57d7b]
+[cx3-14-21:2736939] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736939] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736939] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736939] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14eb3a227865]
+[cx3-14-21:2736939] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736939] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x15275dd42d7b]
+[cx3-14-21:2736951] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736951] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736951] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736951] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x152759112865]
+[cx3-14-21:2736951] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736951] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 31]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc31
+
+[cx3-14-21:2736959] *** Process received signal ***
+[cx3-14-21:2736959] Signal: Aborted (6)
+[cx3-14-21:2736959] Signal code:  (-6)
+[cx3-14-21:2736959] [ 0] /lib64/libc.so.6(+0x4e630)[0x147c1fac1630]
+[cx3-14-21:2736959] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x147c1fac15af]
+[cx3-14-21:2736959] [ 2] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14ccec070020]
+[cx3-14-21:2736929] [ 4] /lib64/libc.so.6(abort+0x127)[0x147c1fa94ee5]
+[cx3-14-21:2736959] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x14ccebb37d7b]
+[cx3-14-21:2736929] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736929] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736929] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736929] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14cce6f07865]
+[cx3-14-21:2736929] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736929] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 17]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc17
+
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x147c24c16020]
+[cx3-14-21:2736959] [ 4] [cx3-14-21:2736945] *** Process received signal ***
+[cx3-14-21:2736945] Signal: Aborted (6)
+[cx3-14-21:2736945] Signal code:  (-6)
+[cx3-14-21:2736945] [ 0] /lib64/libc.so.6(+0x4e630)[0x1456fd2f7630]
+[cx3-14-21:2736945] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1456fd2f75af]
+[cx3-14-21:2736945] [ 2] /lib64/libc.so.6(abort+0x127)[0x1456fd2caee5]
+[cx3-14-21:2736945] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x147c246ddd7b]
+[cx3-14-21:2736959] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736959] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736959] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736959] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x147c1faad865]
+[cx3-14-21:2736959] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736959] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 19]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc19
+
+[cx3-14-21:2736947] *** Process received signal ***
+[cx3-14-21:2736947] Signal: Aborted (6)
+[cx3-14-21:2736947] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14570244c020]
+[cx3-14-21:2736945] [ 4] [cx3-14-21:2736947] [ 0] /lib64/libc.so.6(+0x4e630)[0x1464ae431630]
+[cx3-14-21:2736947] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1464ae4315af]
+[cx3-14-21:2736947] [ 2] /lib64/libc.so.6(abort+0x127)[0x1464ae404ee5]
+[cx3-14-21:2736947] [ 3] [file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 13]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc13
+
+[cx3-14-21:2736941] *** Process received signal ***
+[cx3-14-21:2736941] Signal: Aborted (6)
+[cx3-14-21:2736941] Signal code:  (-6)
+[cx3-14-21:2736941] [ 0] /lib64/libc.so.6(+0x4e630)[0x14c2b509f630]
+[cx3-14-21:2736941] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14c2b509f5af]
+[cx3-14-21:2736941] [ 2] /lib64/libc.so.6(abort+0x127)[0x14c2b5072ee5]
+[cx3-14-21:2736941] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x145701f13d7b]
+[cx3-14-21:2736945] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736945] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736945] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736945] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1456fd2e3865]
+[cx3-14-21:2736945] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736945] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1464b3586020]
+[cx3-14-21:2736947] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14c2ba1f4020]
+[cx3-14-21:2736941] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x1464b304dd7b]
+[cx3-14-21:2736947] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736947] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736947] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736947] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1464ae41d865]
+[cx3-14-21:2736947] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736947] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x14c2b9cbbd7b]
+[cx3-14-21:2736941] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736941] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736941] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736941] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14c2b508b865]
+[cx3-14-21:2736941] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736941] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 24]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc24
+
+[cx3-14-21:2736956] *** Process received signal ***
+[cx3-14-21:2736956] Signal: Aborted (6)
+[cx3-14-21:2736956] Signal code:  (-6)
+[cx3-14-21:2736956] [ 0] /lib64/libc.so.6(+0x4e630)[0x154c85e5c630]
+[cx3-14-21:2736956] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x154c85e5c5af]
+[cx3-14-21:2736956] [ 2] /lib64/libc.so.6(abort+0x127)[0x154c85e2fee5]
+[cx3-14-21:2736956] [ 3] [file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 14]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc14
+
+[cx3-14-21:2736943] *** Process received signal ***
+[cx3-14-21:2736943] Signal: Aborted (6)
+[cx3-14-21:2736943] Signal code:  (-6)
+[cx3-14-21:2736943] [ 0] /lib64/libc.so.6(+0x4e630)[0x152d4c772630]
+[cx3-14-21:2736943] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x152d4c7725af]
+[cx3-14-21:2736943] [ 2] /lib64/libc.so.6(abort+0x127)[0x152d4c745ee5]
+[cx3-14-21:2736943] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x154c8afb1020]
+[cx3-14-21:2736956] [ 4] [file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 28]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc28
+
+[cx3-14-21:2736960] *** Process received signal ***
+[cx3-14-21:2736960] Signal: Aborted (6)
+[cx3-14-21:2736960] Signal code:  (-6)
+[cx3-14-21:2736960] [ 0] /lib64/libc.so.6(+0x4e630)[0x14920aa33630]
+[cx3-14-21:2736960] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14920aa335af]
+[cx3-14-21:2736960] [ 2] /lib64/libc.so.6(abort+0x127)[0x14920aa06ee5]
+[cx3-14-21:2736960] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x152d518c7020]
+[cx3-14-21:2736943] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x154c8aa78d7b]
+[cx3-14-21:2736956] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736956] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736956] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736956] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x154c85e48865]
+[cx3-14-21:2736956] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736956] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 20]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc20
+
+[cx3-14-21:2736953] *** Process received signal ***
+[cx3-14-21:2736953] Signal: Aborted (6)
+[cx3-14-21:2736953] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14920fb88020]
+[cx3-14-21:2736960] [ 4] [cx3-14-21:2736953] [ 0] /lib64/libc.so.6(+0x4e630)[0x1497bd453630]
+[cx3-14-21:2736953] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1497bd4535af]
+[cx3-14-21:2736953] [ 2] /lib64/libc.so.6(abort+0x127)[0x1497bd426ee5]
+[cx3-14-21:2736953] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x152d5138ed7b]
+[cx3-14-21:2736943] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736943] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736943] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736943] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x152d4c75e865]
+[cx3-14-21:2736943] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736943] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 1]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc1
+
+[cx3-14-21:2736932] *** Process received signal ***
+[cx3-14-21:2736932] Signal: Aborted (6)
+[cx3-14-21:2736932] Signal code:  (-6)
+[cx3-14-21:2736932] [ 0] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x14920f64fd7b]
+[cx3-14-21:2736960] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736960] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736960] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736960] [ 8] /lib64/libc.so.6(+0x4e630)[0x14e8131cb630]
+[cx3-14-21:2736932] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14e8131cb5af]
+[cx3-14-21:2736932] [ 2] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14920aa1f865]
+[cx3-14-21:2736960] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736960] *** End of error message ***
+/lib64/libc.so.6(abort+0x127)[0x14e81319eee5]
+[cx3-14-21:2736932] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1497c25a8020]
+[cx3-14-21:2736953] [ 4] [file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 4]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc4
+
+[cx3-14-21:2736936] *** Process received signal ***
+[cx3-14-21:2736936] Signal: Aborted (6)
+[cx3-14-21:2736936] Signal code:  (-6)
+[cx3-14-21:2736936] [ 0] /lib64/libc.so.6(+0x4e630)[0x1551327e3630]
+[cx3-14-21:2736936] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1551327e35af]
+[cx3-14-21:2736936] [ 2] /lib64/libc.so.6(abort+0x127)[0x1551327b6ee5]
+[cx3-14-21:2736936] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14e818320020]
+[cx3-14-21:2736932] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x1497c206fd7b]
+[cx3-14-21:2736953] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736953] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736953] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736953] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1497bd43f865]
+[cx3-14-21:2736953] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736953] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 7]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc7
+
+[cx3-14-21:2736934] *** Process received signal ***
+[cx3-14-21:2736934] Signal: Aborted (6)
+[cx3-14-21:2736934] Signal code:  (-6)
+[cx3-14-21:2736934] [ 0] /lib64/libc.so.6(+0x4e630)[0x14b67d763630]
+[cx3-14-21:2736934] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14b67d7635af]
+[cx3-14-21:2736934] [ 2] /lib64/libc.so.6(abort+0x127)[0x14b67d736ee5]
+[cx3-14-21:2736934] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x155137938020]
+[cx3-14-21:2736936] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x14e817de7d7b]
+[cx3-14-21:2736932] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736932] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736932] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736932] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14e8131b7865]
+[cx3-14-21:2736932] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736932] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 12]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc12
+
+[cx3-14-21:2736944] *** Process received signal ***
+[cx3-14-21:2736944] Signal: Aborted (6)
+[cx3-14-21:2736944] Signal code:  (-6)
+[cx3-14-21:2736944] [ 0] /lib64/libc.so.6(+0x4e630)[0x14a167076630]
+[cx3-14-21:2736944] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14a1670765af]
+[cx3-14-21:2736944] [ 2] /lib64/libc.so.6(abort+0x127)[0x14a167049ee5]
+[cx3-14-21:2736944] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14b6828b8020]
+[cx3-14-21:2736934] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x1551373ffd7b]
+[cx3-14-21:2736936] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736936] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736936] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736936] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1551327cf865]
+[cx3-14-21:2736936] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736936] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 22]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc22
+
+[cx3-14-21:2736950] *** Process received signal ***
+[cx3-14-21:2736950] Signal: Aborted (6)
+[cx3-14-21:2736950] Signal code:  (-6)
+[cx3-14-21:2736950] [ 0] /lib64/libc.so.6(+0x4e630)[0x1490403cd630]
+[cx3-14-21:2736950] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1490403cd5af]
+[cx3-14-21:2736950] [ 2] /lib64/libc.so.6(abort+0x127)[0x1490403a0ee5]
+[cx3-14-21:2736950] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14a16c1cb020]
+[cx3-14-21:2736944] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x14b68237fd7b]
+[cx3-14-21:2736934] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736934] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736934] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736934] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14b67d74f865]
+[cx3-14-21:2736934] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736934] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 27]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc27
+
+[cx3-14-21:2736955] *** Process received signal ***
+[cx3-14-21:2736955] Signal: Aborted (6)
+[cx3-14-21:2736955] Signal code:  (-6)
+[cx3-14-21:2736955] [ 0] /lib64/libc.so.6(+0x4e630)[0x151c7a36a630]
+[cx3-14-21:2736955] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x151c7a36a5af]
+[cx3-14-21:2736955] [ 2] /lib64/libc.so.6(abort+0x127)[0x151c7a33dee5]
+[cx3-14-21:2736955] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x149045522020]
+[cx3-14-21:2736950] [ 4] [file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 8]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc8
+
+[cx3-14-21:2736940] *** Process received signal ***
+[cx3-14-21:2736940] Signal: Aborted (6)
+[cx3-14-21:2736940] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x14a16bc92d7b]
+[cx3-14-21:2736944] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736944] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736944] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736944] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14a167062865]
+[cx3-14-21:2736944] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736944] *** End of error message ***
+[cx3-14-21:2736940] [ 0] /lib64/libc.so.6(+0x4e630)[0x15066766f630]
+[cx3-14-21:2736940] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x15066766f5af]
+[cx3-14-21:2736940] [ 2] /lib64/libc.so.6(abort+0x127)[0x150667642ee5]
+[cx3-14-21:2736940] [ 3] [file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 15]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc15
+
+[cx3-14-21:2736942] *** Process received signal ***
+[cx3-14-21:2736942] Signal: Aborted (6)
+[cx3-14-21:2736942] Signal code:  (-6)
+[cx3-14-21:2736942] [ 0] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x151c7f4bf020]
+[cx3-14-21:2736955] [ 4] /lib64/libc.so.6(+0x4e630)[0x14cfbcea3630]
+[cx3-14-21:2736942] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14cfbcea35af]
+[cx3-14-21:2736942] [ 2] /lib64/libc.so.6(abort+0x127)[0x14cfbce76ee5]
+[cx3-14-21:2736942] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x149044fe9d7b]
+[cx3-14-21:2736950] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736950] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736950] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736950] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1490403b9865]
+[cx3-14-21:2736950] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736950] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 26]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc26
+
+[cx3-14-21:2736954] *** Process received signal ***
+[cx3-14-21:2736954] Signal: Aborted (6)
+[cx3-14-21:2736954] Signal code:  (-6)
+[cx3-14-21:2736954] [ 0] /lib64/libc.so.6(+0x4e630)[0x153c29bda630]
+[cx3-14-21:2736954] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x153c29bda5af]
+[cx3-14-21:2736954] [ 2] /lib64/libc.so.6(abort+0x127)[0x153c29badee5]
+[cx3-14-21:2736954] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x15066c7c4020]
+[cx3-14-21:2736940] [ 4] [file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 30]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc30
+
+[cx3-14-21:2736958] *** Process received signal ***
+[cx3-14-21:2736958] Signal: Aborted (6)
+[cx3-14-21:2736958] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x151c7ef86d7b]
+[cx3-14-21:2736955] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736955] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736955] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736955] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x151c7a356865]
+[cx3-14-21:2736955] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736955] *** End of error message ***
+[cx3-14-21:2736958] [ 0] /lib64/libc.so.6(+0x4e630)[0x145dc17e4630]
+[cx3-14-21:2736958] [ 1] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14cfc1ff8020]
+[cx3-14-21:2736942] [ 4] /lib64/libc.so.6(gsignal+0x10f)[0x145dc17e45af]
+[cx3-14-21:2736958] [ 2] /lib64/libc.so.6(abort+0x127)[0x145dc17b7ee5]
+[cx3-14-21:2736958] [ 3] [file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 6]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc6
+
+[cx3-14-21:2736933] *** Process received signal ***
+[cx3-14-21:2736933] Signal: Aborted (6)
+[cx3-14-21:2736933] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x15066c28bd7b]
+[cx3-14-21:2736940] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736940] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736940] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736940] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x153c2ed2f020]
+[cx3-14-21:2736954] [ 4] /lib64/libc.so.6(__libc_start_main+0xe5)[0x15066765b865]
+[cx3-14-21:2736940] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736940] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 18]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc18
+
+[cx3-14-21:2736933] [ 0] [cx3-14-21:2736946] *** Process received signal ***
+[cx3-14-21:2736946] Signal: Aborted (6)
+[cx3-14-21:2736946] Signal code:  (-6)
+/lib64/libc.so.6(+0x4e630)[0x14cdbb6ad630]
+[cx3-14-21:2736933] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14cdbb6ad5af]
+[cx3-14-21:2736933] [ 2] /lib64/libc.so.6(abort+0x127)[0x14cdbb680ee5]
+[cx3-14-21:2736933] [ 3] [cx3-14-21:2736946] [ 0] /lib64/libc.so.6(+0x4e630)[0x1544e1a77630]
+[cx3-14-21:2736946] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1544e1a775af]
+[cx3-14-21:2736946] [ 2] /lib64/libc.so.6(abort+0x127)[0x1544e1a4aee5]
+[cx3-14-21:2736946] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x14cfc1abfd7b]
+[cx3-14-21:2736942] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736942] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736942] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736942] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14cfbce8f865]
+[cx3-14-21:2736942] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736942] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x145dc6939020]
+[cx3-14-21:2736958] [ 4] [file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 3]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc3
+
+[cx3-14-21:2736930] *** Process received signal ***
+[cx3-14-21:2736930] Signal: Aborted (6)
+[cx3-14-21:2736930] Signal code:  (-6)
+[cx3-14-21:2736930] [ 0] /lib64/libc.so.6(+0x4e630)[0x14c6512b2630]
+[cx3-14-21:2736930] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14c6512b25af]
+[cx3-14-21:2736930] [ 2] /lib64/libc.so.6(abort+0x127)[0x14c651285ee5]
+[cx3-14-21:2736930] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x153c2e7f6d7b]
+[cx3-14-21:2736954] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736954] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736954] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736954] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x153c29bc6865]
+[cx3-14-21:2736954] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736954] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 21]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc21
+
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14cdc0802020]
+[cx3-14-21:2736933] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1544e6bcc020]
+[cx3-14-21:2736949] *** Process received signal ***
+[cx3-14-21:2736949] Signal: Aborted (6)
+[cx3-14-21:2736949] Signal code:  (-6)
+[cx3-14-21:2736946] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x145dc6400d7b]
+[cx3-14-21:2736958] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736958] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736958] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736958] [ 8] [file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 5]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc5
+
+[cx3-14-21:2736949] [ 0] /lib64/libc.so.6(__libc_start_main+0xe5)[0x145dc17d0865]
+[cx3-14-21:2736958] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736958] *** End of error message ***
+[cx3-14-21:2736935] *** Process received signal ***
+[cx3-14-21:2736935] Signal: Aborted (6)
+[cx3-14-21:2736935] Signal code:  (-6)
+/lib64/libc.so.6(+0x4e630)[0x1541a480f630]
+[cx3-14-21:2736949] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1541a480f5af]
+[cx3-14-21:2736949] [ 2] /lib64/libc.so.6(abort+0x127)[0x1541a47e2ee5]
+[cx3-14-21:2736949] [ 3] [ 4] [cx3-14-21:2736935] [ 0] /lib64/libc.so.6(+0x4e630)[0x153587218630]
+[cx3-14-21:2736935] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1535872185af]
+[cx3-14-21:2736935] [ 2] /lib64/libc.so.6(abort+0x127)[0x1535871ebee5]
+[cx3-14-21:2736935] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14c656407020]
+[cx3-14-21:2736930] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x14cdc02c9d7b]
+[cx3-14-21:2736933] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736933] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736933] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736933] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14cdbb699865]
+[cx3-14-21:2736933] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736933] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1541a9964020]
+[cx3-14-21:2736949] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x1544e6693d7b]
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x15358c36d020]
+[cx3-14-21:2736935] [ 4] [cx3-14-21:2736946] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736946] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736946] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x14c655eced7b]
+[cx3-14-21:2736930] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736930] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736930] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736930] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14c65129e865]
+[cx3-14-21:2736930] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736930] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736946] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1544e1a63865]
+[cx3-14-21:2736946] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736946] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x1541a942bd7b]
+[cx3-14-21:2736949] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736949] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736949] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736949] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1541a47fb865]
+[cx3-14-21:2736949] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736949] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x15358be34d7b]
+[cx3-14-21:2736935] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736935] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736935] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736935] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x153587204865]
+[cx3-14-21:2736935] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736935] *** End of error message ***
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 1817, Process 0]: Error TMatrixContainers::WriteHeader - Failed to write HEADER of benzene_dimer_parallel_3p60A.Tguess.tmp.proc0
+
+[cx3-14-21:2736931] *** Process received signal ***
+[cx3-14-21:2736931] Signal: Aborted (6)
+[cx3-14-21:2736931] Signal code:  (-6)
+[cx3-14-21:2736931] [ 0] /lib64/libc.so.6(+0x4e630)[0x153dd82cd630]
+[cx3-14-21:2736931] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x153dd82cd5af]
+[cx3-14-21:2736931] [ 2] /lib64/libc.so.6(abort+0x127)[0x153dd82a0ee5]
+[cx3-14-21:2736931] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x153ddd422020]
+[cx3-14-21:2736931] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer14CloseFileWriteEb+0xfb)[0x153ddcee9d7b]
+[cx3-14-21:2736931] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c20fe]
+[cx3-14-21:2736931] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-21:2736931] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-21:2736931] [ 8] /lib64/libc.so.6(__libc_start_main+0xe5)[0x153dd82b9865]
+[cx3-14-21:2736931] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-21:2736931] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 8 with PID 0 on node cx3-14-21 exited on signal 6 (Aborted).
+--------------------------------------------------------------------------
+[file orca_tools/qcmsg.cpp, line 394]: 
+  .... aborting the run
+
+
+====================================
+CPU Time used: 05:18:37
+CPU Percent: 3172%
+Memory usage: 7261744kb
+Approx Power usage: 0.06359999999999999
+Walltime usage: 00:11:20
+
+====================================
