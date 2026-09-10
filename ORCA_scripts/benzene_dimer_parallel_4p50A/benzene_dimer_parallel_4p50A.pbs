@@ -1,0 +1,10 @@
+#!/bin/bash
+#PBS -N c6h6_4p50A
+#PBS -l select=1:ncpus=32:mpiprocs=32:mem=128gb
+#PBS -l walltime=48:00:00
+#PBS -j oe
+set -euo pipefail
+cd /rds/general/user/ah1123/home/Angel/ORCA_scripts/benzene_dimer_parallel_4p50A
+module load OpenMPI/4.1.6-GCC-13.2.0
+module load ORCA/6.1.0-gompi-2023b-avx2
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca benzene_dimer_parallel_4p50A.inp > benzene_dimer_parallel_4p50A.out
