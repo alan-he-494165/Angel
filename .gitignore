@@ -224,3 +224,5 @@ storybook-static/
 # Local tool state
 .codex/
 .agents/
+mace_model
+*.model
