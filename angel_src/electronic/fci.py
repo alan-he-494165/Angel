@@ -20,6 +20,7 @@ import numpy as np
 
 
 SUPPORTED_BASIS = ("sto-3g", "def2-svp", "def2-tzvp")
+_GPU4PYSCF_AVAILABLE: bool | None = None
 
 
 @dataclass(frozen=True)
@@ -137,16 +138,20 @@ def build_molecule(
 
 def gpu4pyscf_available() -> bool:
     """Return whether GPU4PySCF and at least one CUDA device are available."""
+    global _GPU4PYSCF_AVAILABLE
+    if _GPU4PYSCF_AVAILABLE is not None:
+        return _GPU4PYSCF_AVAILABLE
+
     try:
         import cupy
         import gpu4pyscf  # noqa: F401  (registers GPU PySCF methods)
 
-        return cupy.cuda.runtime.getDeviceCount() > 0
-    except (ImportError, ModuleNotFoundError):
-        return False
-    except Exception as error:
-        warnings.warn(f"CUDA availability detection failed: {error}", RuntimeWarning)
-        return False
+        _GPU4PYSCF_AVAILABLE = cupy.cuda.runtime.getDeviceCount() > 0
+    except Exception:
+        # GPU4PySCF is optional. CUDA ABI or driver failures degrade to the
+        # CPU PySCF path without interrupting a geometry scan.
+        _GPU4PYSCF_AVAILABLE = False
+    return _GPU4PYSCF_AVAILABLE
 
 
 def _as_numpy(value):
@@ -348,7 +353,8 @@ def get_electronic_structure(
             _dump_pickle(wfn_path, wavefunction)
 
     if calculate_energy:
-        energy, _ = _energy_from_hamiltonian(hamiltonian)
+        if energy is None:
+            energy, _ = _energy_from_hamiltonian(hamiltonian)
     return ElectronicStructure(
         hamiltonian=hamiltonian,
         wavefunction=wavefunction,
