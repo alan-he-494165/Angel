@@ -1,0 +1,38 @@
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 0]: Error TMatrixContainers::AddMatrix - Failed to add 28 28 to benzene_dimer_parallel_3p00A.T6.tmp
+
+[cx3-14-26:3640202] *** Process received signal ***
+[cx3-14-26:3640202] Signal: Aborted (6)
+[cx3-14-26:3640202] Signal code:  (-6)
+[cx3-14-26:3640202] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14a5254275b0]
+[cx3-14-26:3640202] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14a52542752f]
+[cx3-14-26:3640202] [ 2] /lib64/libc.so.6(abort+0x127)[0x14a5253fae65]
+[cx3-14-26:3640202] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14a52a57d020]
+[cx3-14-26:3640202] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x14a52a0575d1]
+[cx3-14-26:3640202] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN21LOC_RHF_DIISConverger13copyContainerER16TMatrixContainerS1_+0x101)[0x14a52a0c3ae1]
+[cx3-14-26:3640202] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN21LOC_RHF_DIISConverger8takeStepER16TMatrixContainerR7TMatrixIdES1_S4_+0x94)[0x14a52a0c31d4]
+[cx3-14-26:3640202] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN21LOC_RHF_DIISConverger8takeStepER16TMatrixContainerS1_+0x3a)[0x14a52a0c4b6a]
+[cx3-14-26:3640202] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5c3d64]
+[cx3-14-26:3640202] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a2caa]
+[cx3-14-26:3640202] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-26:3640202] [11] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14a5254137e5]
+[cx3-14-26:3640202] [12] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-26:3640202] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 0 on node cx3-14-26 exited on signal 6 (Aborted).
+--------------------------------------------------------------------------
+[file orca_tools/qcmsg.cpp, line 394]: 
+  .... aborting the run
+
+
+====================================
+CPU Time used: 02:13:42
+CPU Percent: 3175%
+Memory usage: 9699040kb
+Approx Power usage: 0.026600000000000002
+Walltime usage: 00:05:52
+
+====================================

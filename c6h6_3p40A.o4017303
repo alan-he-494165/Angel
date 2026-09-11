@@ -1,0 +1,36 @@
+[file orca_tools/Tool-IntegralList/qcmatstore.cpp, line 2332, Process 0]: Error TMatrixContainers::AddMatrix - Failed to add 30 30 to benzene_dimer_parallel_3p40A.PNO3.tmp
+
+[cx3-14-26:3634489] *** Process received signal ***
+[cx3-14-26:3634489] Signal: Aborted (6)
+[cx3-14-26:3634489] Signal code:  (-6)
+[cx3-14-26:3634489] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x1527f30185b0]
+[cx3-14-26:3634489] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1527f301852f]
+[cx3-14-26:3634489] [ 2] /lib64/libc.so.6(abort+0x127)[0x1527f2febe65]
+[cx3-14-26:3634489] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1527f816e020]
+[cx3-14-26:3634489] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer9AddMatrixIdEEiiiRK7TMatrixIT_Ebb+0x4c1)[0x1527f7c485d1]
+[cx3-14-26:3634489] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TMatrixContainer12AddGblMatrixIdEEiiiRK7TMatrixIT_Eibbb+0x1e9)[0x1527f7c4cf79]
+[cx3-14-26:3634489] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x812f1c]
+[cx3-14-26:3634489] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x5a4da5]
+[cx3-14-26:3634489] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x1179f8b]
+[cx3-14-26:3634489] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1527f30047e5]
+[cx3-14-26:3634489] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_mdci_mpi[0x4d8166]
+[cx3-14-26:3634489] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 0 on node cx3-14-26 exited on signal 6 (Aborted).
+--------------------------------------------------------------------------
+[file orca_tools/qcmsg.cpp, line 394]: 
+  .... aborting the run
+
+
+====================================
+CPU Time used: 13:18:43
+CPU Percent: 3176%
+Memory usage: 115169620kb
+Approx Power usage: 0.15960000000000002
+Walltime usage: 00:26:40
+
+====================================

@@ -1,0 +1,37 @@
+[file orca_tools/qcmat1.cpp, line 157, Process 0]: Failed to write data of OrcaObject (wrote 1021 items of 343206)!
+[cx3-14-26:3641075] *** Process received signal ***
+[cx3-14-26:3641075] Signal: Aborted (6)
+[cx3-14-26:3641075] Signal code:  (-6)
+[cx3-14-26:3641075] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x152caf36a5b0]
+[cx3-14-26:3641075] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x152caf36a52f]
+[cx3-14-26:3641075] [ 2] /lib64/libc.so.6(abort+0x127)[0x152caf33de65]
+[cx3-14-26:3641075] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x152cb44c0020]
+[cx3-14-26:3641075] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z19AbortMessageFmtFunciPKciS0_z+0xb3)[0x152cb061fb03]
+[cx3-14-26:3641075] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZNK10TMatrixSymIdE5StoreEPKc+0x171)[0x152cb05e2781]
+[cx3-14-26:3641075] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZNK16TSharedMatrixSymIdE5StoreEPKc+0x1b)[0x152cb06121db]
+[cx3-14-26:3641075] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN10MatrixLife5SleepI16TSharedMatrixSymIdEEEvPT_PA512_Kcl+0x61)[0x152cb0574681]
+[cx3-14-26:3641075] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x453cb4]
+[cx3-14-26:3641075] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x484fbc]
+[cx3-14-26:3641075] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x426c67]
+[cx3-14-26:3641075] [11] /lib64/libc.so.6(__libc_start_main+0xe5)[0x152caf3567e5]
+[cx3-14-26:3641075] [12] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_leanscf_mpi[0x4262a6]
+[cx3-14-26:3641075] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 0 on node cx3-14-26 exited on signal 6 (Aborted).
+--------------------------------------------------------------------------
+[file orca_tools/qcmsg.cpp, line 394]: 
+  .... aborting the run
+
+
+====================================
+CPU Time used: 01:59:59
+CPU Percent: 3174%
+Memory usage: 6010204kb
+Approx Power usage: 0.0238
+Walltime usage: 00:06:02
+
+====================================

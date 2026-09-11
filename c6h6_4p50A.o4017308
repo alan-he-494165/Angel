@@ -1,0 +1,649 @@
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-15:2769951] *** Process received signal ***
+[cx3-14-15:2769951] Signal: Aborted (6)
+[cx3-14-15:2769951] Signal code:  (-6)
+[cx3-14-15:2769951] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x146e7fc195b0]
+[cx3-14-15:2769951] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x146e7fc1952f]
+[cx3-14-15:2769951] [ 2] /lib64/libc.so.6(abort+0x127)[0x146e7fbece65]
+[cx3-14-15:2769951] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x146e84d6f020]
+[cx3-14-15:2769951] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x56c1)[0x146e84bed131]
+[cx3-14-15:2769951] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x146e810dce98]
+[cx3-14-15:2769951] [ 6] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x146e810e2ddb]
+[cx3-14-15:2769951] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769951] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769951] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x146e7fc057e5]
+[cx3-14-15:2769951] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769951] *** End of error message ***
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-15:2769942] *** Process received signal ***
+[cx3-14-15:2769942] Signal: Aborted (6)
+[cx3-14-15:2769942] Signal code:  (-6)
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-15:2769940] *** Process received signal ***
+[cx3-14-15:2769940] Signal: Aborted (6)
+[cx3-14-15:2769940] Signal code:  (-6)
+[cx3-14-15:2769942] [ 0] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-15:2769948] *** Process received signal ***
+[cx3-14-15:2769948] Signal: Aborted (6)
+[cx3-14-15:2769948] Signal code:  (-6)
+[cx3-14-15:2769940] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14c0cd6745b0]
+[cx3-14-15:2769940] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14c0cd67452f]
+[cx3-14-15:2769940] [ 2] /lib64/libc.so.6(abort+0x127)[0x14c0cd647e65]
+[cx3-14-15:2769940] [ 3] [cx3-14-15:2769948] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14e2834ae5b0]
+[cx3-14-15:2769948] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14e2834ae52f]
+[cx3-14-15:2769948] [ 2] /lib64/libc.so.6(abort+0x127)[0x14e283481e65]
+[cx3-14-15:2769948] [ 3] /lib64/libc.so.6(+0x4e5b0)[0x1531de6335b0]
+[cx3-14-15:2769942] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[ 1] [cx3-14-15:2769934] *** Process received signal ***
+[cx3-14-15:2769934] Signal: Aborted (6)
+[cx3-14-15:2769934] Signal code:  (-6)
+/lib64/libc.so.6(gsignal+0x10f)[0x1531de63352f]
+[cx3-14-15:2769942] [ 2] /lib64/libc.so.6(abort+0x127)[0x1531de606e65]
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+[cx3-14-15:2769934] [ 0] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-15:2769941] *** Process received signal ***
+[cx3-14-15:2769941] Signal: Aborted (6)
+[cx3-14-15:2769941] Signal code:  (-6)
+/lib64/libc.so.6(+0x4e5b0)[0x14e2db9795b0]
+[cx3-14-15:2769934] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14e2db97952f]
+[cx3-14-15:2769934] [ 2] /lib64/libc.so.6(abort+0x127)[0x14e2db94ce65]
+[cx3-14-15:2769934] [ 3] [cx3-14-15:2769942] [ 3] [cx3-14-15:2769941] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14a705e6e5b0]
+[cx3-14-15:2769941] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14a705e6e52f]
+[cx3-14-15:2769941] [ 2] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+/lib64/libc.so.6(abort+0x127)[0x14a705e41e65]
+[cx3-14-15:2769941] [ 3] [cx3-14-15:2769935] *** Process received signal ***
+[cx3-14-15:2769935] Signal: Aborted (6)
+[cx3-14-15:2769935] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14c0d27ca020]
+[cx3-14-15:2769940] [ 4] [cx3-14-15:2769935] [ 0] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14e288604020]
+[cx3-14-15:2769948] [ 4] /lib64/libc.so.6(+0x4e5b0)[0x15079b5635b0]
+[cx3-14-15:2769935] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x15079b56352f]
+[cx3-14-15:2769935] [ 2] /lib64/libc.so.6(abort+0x127)[0x15079b536e65]
+[cx3-14-15:2769935] [ 3] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-15:2769923] *** Process received signal ***
+[cx3-14-15:2769923] Signal: Aborted (6)
+[cx3-14-15:2769923] Signal code:  (-6)
+[cx3-14-15:2769923] [ 0] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14e2e0acf020]
+[cx3-14-15:2769934] [ 4] /lib64/libc.so.6(+0x4e5b0)[0x14931b0915b0]
+[cx3-14-15:2769923] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14931b09152f]
+[cx3-14-15:2769923] [ 2] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+/lib64/libc.so.6(abort+0x127)[0x14931b064e65]
+[cx3-14-15:2769923] [ 3] [cx3-14-15:2769930] *** Process received signal ***
+[cx3-14-15:2769930] Signal: Aborted (6)
+[cx3-14-15:2769930] Signal code:  (-6)
+[cx3-14-15:2769930] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14cdb40d65b0]
+[cx3-14-15:2769930] [ 1] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x510f)[0x14c0d2647b7f]
+[cx3-14-15:2769940] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14a70afc4020]
+[cx3-14-15:2769941] [ 4] /lib64/libc.so.6(gsignal+0x10f)[0x14cdb40d652f]
+[cx3-14-15:2769930] [ 2] /lib64/libc.so.6(abort+0x127)[0x14cdb40a9e65]
+[cx3-14-15:2769930] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1507a06b9020]
+[cx3-14-15:2769935] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x5579)[0x14e288481fe9]
+[cx3-14-15:2769948] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x58ad)[0x14e2e094d31d]
+[cx3-14-15:2769934] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1493201e7020]
+[cx3-14-15:2769923] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1531e3789020]
+[cx3-14-15:2769942] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14c0ceb37e98]
+[cx3-14-15:2769940] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x52fd)[0x14a70ae41d6d]
+[cx3-14-15:2769941] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14cdb922c020]
+[cx3-14-15:2769930] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14e284971e98]
+[cx3-14-15:2769948] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x4fb0)[0x1507a0536a20]
+[cx3-14-15:2769935] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14e2dce3ce98]
+[cx3-14-15:2769934] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x4efe)[0x14932006496e]
+[cx3-14-15:2769923] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14c0ceb3dddb]
+[cx3-14-15:2769940] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769940] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769940] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14c0cd6607e5]
+[cx3-14-15:2769940] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769940] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14a707331e98]
+[cx3-14-15:2769941] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14e284977ddb]
+[cx3-14-15:2769948] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769948] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769948] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14e28349a7e5]
+[cx3-14-15:2769948] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769948] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x15079ca26e98]
+[cx3-14-15:2769935] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x52fd)[0x14cdb90a9d6d]
+[cx3-14-15:2769930] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14e2dce42ddb]
+[cx3-14-15:2769934] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769934] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769934] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14e2db9657e5]
+[cx3-14-15:2769934] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769934] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14931c554e98]
+[cx3-14-15:2769923] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x56c1)[0x1531e3607131]
+[cx3-14-15:2769942] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14a707337ddb]
+[cx3-14-15:2769941] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769941] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769941] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14a705e5a7e5]
+[cx3-14-15:2769941] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769941] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x15079ca2cddb]
+[cx3-14-15:2769935] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769935] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769935] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x15079b54f7e5]
+[cx3-14-15:2769935] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769935] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14cdb5599e98]
+[cx3-14-15:2769930] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14931c55addb]
+[cx3-14-15:2769923] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769923] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769923] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14931b07d7e5]
+[cx3-14-15:2769923] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769923] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x1531dfaf6e98]
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14cdb559fddb]
+[cx3-14-15:2769930] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769930] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769930] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14cdb40c27e5]
+[cx3-14-15:2769930] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769930] *** End of error message ***
+[cx3-14-15:2769942] [ 6] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-15:2769937] *** Process received signal ***
+[cx3-14-15:2769937] Signal: Aborted (6)
+[cx3-14-15:2769937] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x1531dfafcddb]
+[cx3-14-15:2769942] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769942] [cx3-14-15:2769937] [ 0] [ 8] /lib64/libc.so.6(+0x4e5b0)[0x14c1ce48e5b0]
+[cx3-14-15:2769937] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14c1ce48e52f]
+[cx3-14-15:2769937] [ 2] /lib64/libc.so.6(abort+0x127)[0x14c1ce461e65]
+[cx3-14-15:2769937] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769942] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[ 9] [cx3-14-15:2769952] *** Process received signal ***
+[cx3-14-15:2769952] Signal: Aborted (6)
+[cx3-14-15:2769952] Signal code:  (-6)
+/lib64/libc.so.6(__libc_start_main+0xe5)[0x1531de61f7e5]
+[cx3-14-15:2769942] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769952] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x1514dd5f95b0]
+[cx3-14-15:2769952] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1514dd5f952f]
+[cx3-14-15:2769952] [ 2] /lib64/libc.so.6(abort+0x127)[0x1514dd5cce65]
+[cx3-14-15:2769952] [ 3] [cx3-14-15:2769942] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14c1d35e4020]
+[cx3-14-15:2769937] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1514e274f020]
+[cx3-14-15:2769952] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x5579)[0x14c1d3461fe9]
+[cx3-14-15:2769937] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x56c1)[0x1514e25cd131]
+[cx3-14-15:2769952] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14c1cf951e98]
+[cx3-14-15:2769937] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x1514deabce98]
+[cx3-14-15:2769952] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14c1cf957ddb]
+[cx3-14-15:2769937] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769937] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769937] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14c1ce47a7e5]
+[cx3-14-15:2769937] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769937] *** End of error message ***
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-15:2769928] *** Process received signal ***
+[cx3-14-15:2769928] Signal: Aborted (6)
+[cx3-14-15:2769928] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x1514deac2ddb]
+[cx3-14-15:2769952] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769952] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769952] [ 9] [cx3-14-15:2769928] [ 0] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1514dd5e57e5]
+[cx3-14-15:2769952] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769952] *** End of error message ***
+/lib64/libc.so.6(+0x4e5b0)[0x15381ffc85b0]
+[cx3-14-15:2769928] [ 1] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+/lib64/libc.so.6(gsignal+0x10f)[0x15381ffc852f]
+[cx3-14-15:2769928] [ 2] /lib64/libc.so.6(abort+0x127)[0x15381ff9be65]
+[cx3-14-15:2769928] [ 3] [cx3-14-15:2769936] *** Process received signal ***
+[cx3-14-15:2769936] Signal: Aborted (6)
+[cx3-14-15:2769936] Signal code:  (-6)
+[cx3-14-15:2769936] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x153883daf5b0]
+[cx3-14-15:2769936] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x153883daf52f]
+[cx3-14-15:2769936] [ 2] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+/lib64/libc.so.6(abort+0x127)[0x153883d82e65]
+[cx3-14-15:2769936] [ 3] !!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-15:2769943] *** Process received signal ***
+[cx3-14-15:2769943] Signal: Aborted (6)
+[cx3-14-15:2769943] Signal code:  (-6)
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-15:2769939] *** Process received signal ***
+[cx3-14-15:2769939] Signal: Aborted (6)
+[cx3-14-15:2769939] Signal code:  (-6)
+[cx3-14-15:2769943] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x15527f7375b0]
+[cx3-14-15:2769943] [ 1] [cx3-14-15:2769939] [ 0] /lib64/libc.so.6(gsignal+0x10f)[0x15527f73752f]
+[cx3-14-15:2769943] [ 2] /lib64/libc.so.6(abort+0x127)[0x15527f70ae65]
+[cx3-14-15:2769943] [ 3] /lib64/libc.so.6(+0x4e5b0)[0x148a3dc955b0]
+[cx3-14-15:2769939] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x148a3dc9552f]
+[cx3-14-15:2769939] [ 2] /lib64/libc.so.6(abort+0x127)[0x148a3dc68e65]
+[cx3-14-15:2769939] [ 3] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-15:2769944] *** Process received signal ***
+[cx3-14-15:2769944] Signal: Aborted (6)
+[cx3-14-15:2769944] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x15382511e020]
+[cx3-14-15:2769928] [ 4] [cx3-14-15:2769944] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14f4ef81d5b0]
+[cx3-14-15:2769944] [ 1] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+/lib64/libc.so.6(gsignal+0x10f)[0x14f4ef81d52f]
+[cx3-14-15:2769944] [ 2] /lib64/libc.so.6(abort+0x127)[0x14f4ef7f0e65]
+[cx3-14-15:2769944] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x153888f05020]
+[cx3-14-15:2769936] [ 4] [cx3-14-15:2769929] *** Process received signal ***
+[cx3-14-15:2769929] Signal: Aborted (6)
+[cx3-14-15:2769929] Signal code:  (-6)
+[cx3-14-15:2769929] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14f4d6d565b0]
+[cx3-14-15:2769929] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14f4d6d5652f]
+[cx3-14-15:2769929] [ 2] /lib64/libc.so.6(abort+0x127)[0x14f4d6d29e65]
+[cx3-14-15:2769929] [ 3] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x148a42deb020]
+[cx3-14-15:2769939] [ 4] [cx3-14-15:2769947] *** Process received signal ***
+[cx3-14-15:2769947] Signal: Aborted (6)
+[cx3-14-15:2769947] Signal code:  (-6)
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x4fb0)[0x153824f9ba20]
+[cx3-14-15:2769928] [ 5] [cx3-14-15:2769925] *** Process received signal ***
+[cx3-14-15:2769925] Signal: Aborted (6)
+[cx3-14-15:2769925] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x15528488d020]
+[cx3-14-15:2769943] [ 4] [cx3-14-15:2769947] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14d03f5d15b0]
+[cx3-14-15:2769947] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14d03f5d152f]
+[cx3-14-15:2769947] [ 2] /lib64/libc.so.6(abort+0x127)[0x14d03f5a4e65]
+[cx3-14-15:2769947] [ 3] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-15:2769925] [ 0] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14f4f4973020]
+[cx3-14-15:2769944] [ 4] /lib64/libc.so.6(+0x4e5b0)[0x148617d905b0]
+[cx3-14-15:2769925] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x148617d9052f]
+[cx3-14-15:2769925] [ 2] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x5579)[0x153888d82fe9]
+[cx3-14-15:2769936] [ 5] [cx3-14-15:2769938] *** Process received signal ***
+[cx3-14-15:2769938] Signal: Aborted (6)
+[cx3-14-15:2769938] Signal code:  (-6)
+[cx3-14-15:2769938] [ 0] /lib64/libc.so.6(abort+0x127)[0x148617d63e65]
+[cx3-14-15:2769925] [ 3] /lib64/libc.so.6(+0x4e5b0)[0x1514dc5a45b0]
+[cx3-14-15:2769938] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1514dc5a452f]
+[cx3-14-15:2769938] [ 2] /lib64/libc.so.6(abort+0x127)[0x1514dc577e65]
+[cx3-14-15:2769938] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14f4dbeac020]
+[cx3-14-15:2769929] [ 4] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-15:2769926] *** Process received signal ***
+[cx3-14-15:2769926] Signal: Aborted (6)
+[cx3-14-15:2769926] Signal code:  (-6)
+[cx3-14-15:2769926] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x145b455745b0]
+[cx3-14-15:2769926] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x145b4557452f]
+[cx3-14-15:2769926] [ 2] /lib64/libc.so.6(abort+0x127)[0x145b45547e65]
+[cx3-14-15:2769926] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x58ad)[0x148a42c6931d]
+[cx3-14-15:2769939] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x15382148be98]
+[cx3-14-15:2769928] [ 6] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-15:2769922] *** Process received signal ***
+[cx3-14-15:2769922] Signal: Aborted (6)
+[cx3-14-15:2769922] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x153885272e98]
+[cx3-14-15:2769936] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14d044727020]
+[cx3-14-15:2769947] [ 4] [cx3-14-15:2769922] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x1553c3bb15b0]
+[cx3-14-15:2769922] [ 1] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x5579)[0x14f4f47f0fe9]
+[cx3-14-15:2769944] [ 5] /lib64/libc.so.6(gsignal+0x10f)[0x1553c3bb152f]
+[cx3-14-15:2769922] [ 2] /lib64/libc.so.6(abort+0x127)[0x1553c3b84e65]
+[cx3-14-15:2769922] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x5579)[0x15528470afe9]
+[cx3-14-15:2769943] [ 5] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-15:2769931] *** Process received signal ***
+[cx3-14-15:2769931] Signal: Aborted (6)
+[cx3-14-15:2769931] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x4efe)[0x14f4dbd2996e]
+[cx3-14-15:2769929] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1514e16fa020]
+[cx3-14-15:2769938] [ 4] [cx3-14-15:2769931] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x15120f1a75b0]
+[cx3-14-15:2769931] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x15120f1a752f]
+[cx3-14-15:2769931] [ 2] /lib64/libc.so.6(abort+0x127)[0x15120f17ae65]
+[cx3-14-15:2769931] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x148a3f158e98]
+[cx3-14-15:2769939] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x153821491ddb]
+[cx3-14-15:2769928] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769928] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769928] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x15381ffb47e5]
+[cx3-14-15:2769928] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769928] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x145b4a6ca020]
+[cx3-14-15:2769926] [ 4] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-15:2769921] *** Process received signal ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14861cee6020]
+[cx3-14-15:2769925] [ 4] [cx3-14-15:2769921] Signal: Aborted (6)
+[cx3-14-15:2769921] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x153885278ddb]
+[cx3-14-15:2769936] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769936] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769936] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x153883d9b7e5]
+[cx3-14-15:2769936] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769936] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14f4f0ce0e98]
+[cx3-14-15:2769944] [ 6] [cx3-14-15:2769921] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x145a0055a5b0]
+[cx3-14-15:2769921] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x145a0055a52f]
+[cx3-14-15:2769921] [ 2] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x155280bfae98]
+[cx3-14-15:2769943] [ 6] /lib64/libc.so.6(abort+0x127)[0x145a0052de65]
+[cx3-14-15:2769921] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x5579)[0x14d0445a4fe9]
+[cx3-14-15:2769947] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1553c8d07020]
+[cx3-14-15:2769922] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14f4d8219e98]
+[cx3-14-15:2769929] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x5062)[0x1514e1577ad2]
+[cx3-14-15:2769938] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x148a3f15eddb]
+[cx3-14-15:2769939] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769939] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769939] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x148a3dc817e5]
+[cx3-14-15:2769939] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769939] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1512142fd020]
+[cx3-14-15:2769931] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x4efe)[0x145b4a54796e]
+[cx3-14-15:2769926] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14f4f0ce6ddb]
+[cx3-14-15:2769944] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769944] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769944] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14f4ef8097e5]
+[cx3-14-15:2769944] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769944] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x4efe)[0x14861cd6396e]
+[cx3-14-15:2769925] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x155280c00ddb]
+[cx3-14-15:2769943] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769943] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769943] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14d040a94e98]
+[cx3-14-15:2769947] [ 6] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-15:2769950] *** Process received signal ***
+[cx3-14-15:2769950] Signal: Aborted (6)
+[cx3-14-15:2769950] Signal code:  (-6)
+/lib64/libc.so.6(__libc_start_main+0xe5)[0x15527f7237e5]
+[cx3-14-15:2769943] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769943] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x145a056b0020]
+[cx3-14-15:2769921] [ 4] [cx3-14-15:2769950] [ 0] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14f4d821fddb]
+[cx3-14-15:2769929] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769929] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769929] [ 9] /lib64/libc.so.6(+0x4e5b0)[0x14f48805d5b0]
+[cx3-14-15:2769950] [ 1] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14f4d6d427e5]
+[cx3-14-15:2769929] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769929] *** End of error message ***
+/lib64/libc.so.6(gsignal+0x10f)[0x14f48805d52f]
+[cx3-14-15:2769950] [ 2] /lib64/libc.so.6(abort+0x127)[0x14f488030e65]
+[cx3-14-15:2769950] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x4efe)[0x1553c8b8496e]
+[cx3-14-15:2769922] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x1514dda67e98]
+[cx3-14-15:2769938] [ 6] 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-15:2769927] *** Process received signal ***
+[cx3-14-15:2769927] Signal: Aborted (6)
+[cx3-14-15:2769927] Signal code:  (-6)
+[cx3-14-15:2769933] *** Process received signal ***
+[cx3-14-15:2769933] Signal: Aborted (6)
+[cx3-14-15:2769933] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x4fb0)[0x15121417aa20]
+[cx3-14-15:2769931] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x148619253e98]
+[cx3-14-15:2769925] [ 6] [cx3-14-15:2769933] [ 0] [cx3-14-15:2769927] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x15371e4695b0]
+[cx3-14-15:2769933] [ 1] /lib64/libc.so.6(+0x4e5b0)[0x14fac8a6c5b0]
+[cx3-14-15:2769927] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14fac8a6c52f]
+[cx3-14-15:2769927] [ 2] /lib64/libc.so.6(gsignal+0x10f)[0x15371e46952f]
+[cx3-14-15:2769933] [ 2] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14d040a9addb]
+[cx3-14-15:2769947] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769947] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769947] [ 9] /lib64/libc.so.6(abort+0x127)[0x14fac8a3fe65]
+[cx3-14-15:2769927] [ 3] /lib64/libc.so.6(abort+0x127)[0x15371e43ce65]
+[cx3-14-15:2769933] [ 3] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14d03f5bd7e5]
+[cx3-14-15:2769947] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769947] *** End of error message ***
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-15:2769932] *** Process received signal ***
+[cx3-14-15:2769932] Signal: Aborted (6)
+[cx3-14-15:2769932] Signal code:  (-6)
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x4efe)[0x145a0552d96e]
+[cx3-14-15:2769921] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x1553c5074e98]
+[cx3-14-15:2769922] [ 6] [cx3-14-15:2769932] [ 0] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x1514dda6dddb]
+[cx3-14-15:2769938] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769938] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769938] [ 9] /lib64/libc.so.6(+0x4e5b0)[0x15473ae365b0]
+[cx3-14-15:2769932] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x15473ae3652f]
+[cx3-14-15:2769932] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1514dc5907e5]
+[cx3-14-15:2769938] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769938] *** End of error message ***
+[ 2] /lib64/libc.so.6(abort+0x127)[0x15473ae09e65]
+[cx3-14-15:2769932] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14f48d1b3020]
+[cx3-14-15:2769950] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x15121066ae98]
+[cx3-14-15:2769931] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x151210670ddb]
+[cx3-14-15:2769931] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769931] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769931] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x15120f1937e5]
+[cx3-14-15:2769931] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769931] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1537235bf020]
+[cx3-14-15:2769933] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x510f)[0x15372343cb7f]
+[cx3-14-15:2769933] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x15371f92ce98]
+[cx3-14-15:2769933] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x15371f932ddb]
+[cx3-14-15:2769933] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769933] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769933] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x15371e4557e5]
+[cx3-14-15:2769933] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769933] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x145b46a37e98]
+[cx3-14-15:2769926] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x145b46a3dddb]
+[cx3-14-15:2769926] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769926] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769926] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x145b455607e5]
+[cx3-14-15:2769926] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769926] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x15473ff8c020]
+[cx3-14-15:2769932] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x5062)[0x15473fe09ad2]
+[cx3-14-15:2769932] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x15473c2f9e98]
+[cx3-14-15:2769932] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x15473c2ffddb]
+[cx3-14-15:2769932] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769932] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769932] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x15473ae227e5]
+[cx3-14-15:2769932] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769932] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14facdbc2020]
+[cx3-14-15:2769927] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x5062)[0x14facda3fad2]
+[cx3-14-15:2769927] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14fac9f2fe98]
+[cx3-14-15:2769927] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14fac9f35ddb]
+[cx3-14-15:2769927] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769927] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769927] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14fac8a587e5]
+[cx3-14-15:2769927] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769927] *** End of error message ***
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-15:2769949] *** Process received signal ***
+[cx3-14-15:2769949] Signal: Aborted (6)
+[cx3-14-15:2769949] Signal code:  (-6)
+[cx3-14-15:2769949] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x14f929c255b0]
+[cx3-14-15:2769949] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x14f929c2552f]
+[cx3-14-15:2769949] [ 2] /lib64/libc.so.6(abort+0x127)[0x14f929bf8e65]
+[cx3-14-15:2769949] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x14f92ed7b020]
+[cx3-14-15:2769949] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x56c1)[0x14f92ebf9131]
+[cx3-14-15:2769949] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14f92b0e8e98]
+[cx3-14-15:2769949] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14f92b0eeddb]
+[cx3-14-15:2769949] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769949] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769949] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14f929c117e5]
+[cx3-14-15:2769949] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769949] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x58ad)[0x14f48d03131d]
+[cx3-14-15:2769950] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x14f489520e98]
+[cx3-14-15:2769950] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x14f489526ddb]
+[cx3-14-15:2769950] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769950] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769950] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x14f4880497e5]
+[cx3-14-15:2769950] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769950] *** End of error message ***
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                        FATAL ERROR ENCOUNTERED               !!!
+!!!                        -----------------------               !!!
+!!!                          I/O OPERATION FAILED                !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[cx3-14-15:2769924] *** Process received signal ***
+[cx3-14-15:2769924] Signal: Aborted (6)
+[cx3-14-15:2769924] Signal code:  (-6)
+[cx3-14-15:2769924] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x1550d7b5d5b0]
+[cx3-14-15:2769924] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1550d7b5d52f]
+[cx3-14-15:2769924] [ 2] /lib64/libc.so.6(abort+0x127)[0x1550d7b30e65]
+[cx3-14-15:2769924] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1550dccb3020]
+[cx3-14-15:2769924] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN16TIntegrationGrid9SetUpGridERK8GridOptsiPP8BFNGaussPiiiP7TMatrixIdES6_bS5_S6_i+0x4efe)[0x1550dcb3096e]
+[cx3-14-15:2769924] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x1550d9020e98]
+[cx3-14-15:2769924] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x1550d9026ddb]
+[cx3-14-15:2769924] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769924] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769924] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1550d7b497e5]
+[cx3-14-15:2769924] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769924] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x148619259ddb]
+[cx3-14-15:2769925] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769925] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769925] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x148617d7c7e5]
+[cx3-14-15:2769925] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769925] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z20SHARK_SetUpORCAGridsR9TOrcaInfoR11TBasisInputR10TGeomInputR15TSharkInterfaceb+0x3d8)[0x145a01a1de98]
+[cx3-14-15:2769921] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x145a01a23ddb]
+[cx3-14-15:2769921] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769921] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769921] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x145a005467e5]
+[cx3-14-15:2769921] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769921] *** End of error message ***
+/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x23eb)[0x1553c507addb]
+[cx3-14-15:2769922] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-15:2769922] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-15:2769922] [ 9] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1553c3b9d7e5]
+[cx3-14-15:2769922] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-15:2769922] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 9 with PID 0 on node cx3-14-15 exited on signal 6 (Aborted).
+--------------------------------------------------------------------------
+[file orca_tools/qcmsg.cpp, line 394]: 
+  .... aborting the run
+
+
+====================================
+CPU Time used: 00:00:00
+CPU Percent: 0%
+Memory usage: 0b
+Approx Power usage: 0.0
+Walltime usage: 00:00:16
+
+====================================

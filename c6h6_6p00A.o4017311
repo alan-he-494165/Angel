@@ -1,0 +1,41 @@
+[file orca_tools/Tool-Parallel/pal3.cpp, line 884, Process 0]: Error TPAL_WinMatArrayD::Dump - Failed to store data
+
+[cx3-14-22:1377515] *** Process received signal ***
+[cx3-14-22:1377515] Signal: Aborted (6)
+[cx3-14-22:1377515] Signal code:  (-6)
+[cx3-14-22:1377515] [ 0] /lib64/libc.so.6(+0x4e5b0)[0x1463bdcf45b0]
+[cx3-14-22:1377515] [ 1] /lib64/libc.so.6(gsignal+0x10f)[0x1463bdcf452f]
+[cx3-14-22:1377515] [ 2] /lib64/libc.so.6(abort+0x127)[0x1463bdcc7e65]
+[cx3-14-22:1377515] [ 3] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z9PAL_Aborti+0x20)[0x1463c2e4a020]
+[cx3-14-22:1377515] [ 4] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN17TPAL_WinMatArrayD4DumpEPc+0xa8)[0x1463c2e656f8]
+[cx3-14-22:1377515] [ 5] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z23SHARK_DumpAndFreeEIJwinR17TPAL_WinMatArrayDPc+0x9)[0x1463c5818ab9]
+[cx3-14-22:1377515] [ 6] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN21TSharkSCShellPairData21OrganizeShellPairDataEddlR19TSharkScratchMemoryP11TPointGroup22SHARK_PrescreeningType16SHARK_ExtentType+0x2ec6)[0x1463c58225c6]
+[cx3-14-22:1377515] [ 7] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN15TSharkInterface21OrganizeShellPairDataEv+0x3c2)[0x1463c57ed072]
+[cx3-14-22:1377515] [ 8] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN15TSharkInterface18CheckShellPairDataEv+0x5ed)[0x1463c57eca4d]
+[cx3-14-22:1377515] [ 9] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN15TSharkInterface8SetBasisER11TSharkBasis30SHARK_StartUpContractionOption+0x511)[0x1463c57ebdd1]
+[cx3-14-22:1377515] [10] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_ZN15TSharkInterface16Initialize_SHARKEPc30SHARK_StartUpContractionOption+0x141)[0x1463c57dfeb1]
+[cx3-14-22:1377515] [11] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/lib/liborca_tools_6_1_0_avx2_mpi.so.6(_Z27SHARK_InitializeSinglePointR13TORCAPointersR15TSharkInterfaceb+0x25a)[0x1463bf1bbc4a]
+[cx3-14-22:1377515] [12] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40a6d6]
+[cx3-14-22:1377515] [13] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x40b346]
+[cx3-14-22:1377515] [14] /lib64/libc.so.6(__libc_start_main+0xe5)[0x1463bdce07e5]
+[cx3-14-22:1377515] [15] /sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca_startup_mpi[0x408636]
+[cx3-14-22:1377515] *** End of error message ***
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 0 on node cx3-14-22 exited on signal 6 (Aborted).
+--------------------------------------------------------------------------
+[file orca_tools/qcmsg.cpp, line 394]: 
+  .... aborting the run
+
+
+====================================
+CPU Time used: 00:00:00
+CPU Percent: 0%
+Memory usage: 0b
+Approx Power usage: 0.0
+Walltime usage: 00:00:16
+
+====================================
