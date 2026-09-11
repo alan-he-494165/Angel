@@ -197,6 +197,21 @@ Recommended first implementation:
 
 This reduces catastrophic forgetting and makes the protocol easier to analyze.
 
+### ORCA/HPC Calculation Defaults
+
+The initial generated C6H6 dimer calculations use ORCA 6.1.0 with the following fixed defaults:
+
+- modules: `OpenMPI/4.1.6-GCC-13.2.0` and `ORCA/6.1.0-gompi-2023b-avx2`;
+- executable: `/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca`;
+- method and orbital basis: `DLPNO-CCSD(T)` with `aug-cc-pVTZ`;
+- auxiliary basis: `aug-cc-pVTZ/C`;
+- convergence settings: `TightSCF TightPNO`, with no explicit SCF `MaxIter` setting;
+- parallelism: 32 ORCA processes, with 32 PBS MPI processes;
+- default PBS resource request: `select=1:ncpus=32:mpiprocs=32:mem=128gb`;
+- HPC repository root: `/rds/general/user/ah1123/home/Angel`.
+
+Each generated dimer geometry is run separately in its own directory under `ORCA_scripts/`. These are computational defaults for the initial benchmark and may be revised after queue, memory, and convergence testing.
+
 ### Step 5: Evaluate Landscape Accuracy
 
 Do not rely only on pointwise energy MAE.

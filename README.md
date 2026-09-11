@@ -80,6 +80,20 @@ E_final = E_base + Delta_E_NQS
 
 This keeps the pretrained MLIP fixed and trains a small correction head on sparse NQS-derived interaction-energy signals. The goal is to reduce catastrophic forgetting and make small-data behavior easier to analyze.
 
+## ORCA/HPC Defaults
+
+The generated benzene-dimer DLPNO-CCSD(T) jobs use the following defaults:
+
+- ORCA 6.1.0 module: `ORCA/6.1.0-gompi-2023b-avx2`
+- MPI module: `OpenMPI/4.1.6-GCC-13.2.0`
+- ORCA executable: `/sw-eb/software/ORCA/6.1.0-gompi-2023b-avx2/bin/orca`
+- electronic structure method: `DLPNO-CCSD(T)` with `aug-cc-pVTZ`
+- auxiliary basis: `aug-cc-pVTZ/C`
+- SCF/PNO settings: `TightSCF TightPNO` without an explicit SCF iteration limit
+- parallelism: 32 ORCA processes and 32 PBS MPI processes
+- PBS resources: one select chunk, 32 CPUs, and 128 GB memory
+- HPC repository root: `/rds/general/user/ah1123/home/Angel`
+
 ## Evaluation Focus
 
 ANGEL should be evaluated on landscape-level behavior, not only pointwise energy error.
