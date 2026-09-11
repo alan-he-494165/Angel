@@ -128,6 +128,43 @@ For each selected geometry, keep the following consistent:
 
 For weak interaction energies, be careful with dimer-minus-monomer cancellation. Prefer reporting interaction curves and relative landscape features before making broad claims about absolute binding energies.
 
+## PBS Job Defaults for DFT-Orbital Hamiltonian Generation
+
+PBS jobs that generate orbital inputs for the NQS Hamiltonian should use the following defaults unless an experiment explicitly changes them:
+
+- DFT orbital generation: `wB97M-V`
+- DFT orbital basis: `def2-TZVP`
+- frozen-core active-space Hamiltonian: retain the selected active-electron and active-orbital counts consistently across all geometries
+- NQS optimization: label-free NetKet VMC on the generated Hamiltonian
+- accelerator: request one CUDA GPU when GPU4PySCF or JAX CUDA is used; otherwise record the CPU fallback
+- reproducibility: set and record a fixed NQS seed, geometry ordering, basis, functional, active space, NetKet version, JAX version, and CUDA/PySCF backend
+
+The DFT calculation supplies orbitals for Hamiltonian construction. It does not provide supervised energy labels for the NQS. PBS output should record whether DFT orbital generation and NQS VMC used GPU or CPU execution, together with SCF convergence and VMC energy, variance, and uncertainty.
+
+A PBS generation job should follow this resource pattern and replace `RUN_COMMAND` with the repository entry point for the selected geometry set:
+
+```bash
+#!/bin/bash
+#PBS -N angel_nqs_hamiltonian
+#PBS -l select=1:ncpus=16:ngpus=1:mem=64gb
+#PBS -l walltime=24:00:00
+#PBS -j oe
+
+set -euo pipefail
+cd "$PBS_O_WORKDIR"
+source "$HOME/miniconda3/etc/profile.d/conda.sh"
+conda activate angel312
+
+export XLA_PYTHON_CLIENT_PREALLOCATE=false
+export ANGEL_DFT_FUNCTIONAL=wB97M-V
+export ANGEL_DFT_BASIS=def2-TZVP
+export ANGEL_NQS_SEED=1234
+
+RUN_COMMAND
+```
+
+Keep one geometry per reproducible Hamiltonian-generation record, and do not describe the resulting NQS as DFT-supervised. The NQS remains a variational solver for the frozen-core Hamiltonian.
+
 ## Experimental Controls
 
 Always preserve the distinction between sampling and supervision.
@@ -201,4 +238,3 @@ Recommended next steps:
 4. Construct frozen-core FCI Hamiltonians for the smallest selected systems.
 5. Validate NQS-derived interaction curves against trusted references.
 6. Implement a frozen-base delta-correction head for sparse MLIP fine-tuning.
-
