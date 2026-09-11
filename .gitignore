@@ -156,7 +156,6 @@ checkpoint/
 # Generated data and heavy outputs
 models/
 outputs/
-results/
 artifacts/
 scratch/
 
