@@ -153,36 +153,7 @@ checkpoint/
 *.app
 *.dmg
 
-# Scientific chemistry and simulation outputs
-*.chk
-*.fchk
-*.gbw
-*.wfn
-*.wfx
-*.cube
-*.molden
-*.molden.input
-*.movecs
-*.hess
-*.grad
-*.trj
-*.traj
-*.xtc
-*.trr
-*.dcd
-*.nc
-*.edr
-*.tpr
-*.cpt
-*.gro
-*.top
-*.itp
-
 # Generated data and heavy outputs
-data/raw/
-data/interim/
-data/processed/
-datasets/
 models/
 outputs/
 results/
@@ -224,5 +195,5 @@ storybook-static/
 # Local tool state
 .codex/
 .agents/
-mace_model
+mace_model/
 *.model
