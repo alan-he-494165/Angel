@@ -60,7 +60,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--mace-model-path",
         type=Path,
-        default=Path("mace_model/MACE-omol-0-extra-large-1024.model"),
+        default=Path("mace_model/MACE-OFF23_large.model"),
         help="Path to a local MACE model. If omitted, installed MACE factory calculators are tried.",
     )
     parser.add_argument(
