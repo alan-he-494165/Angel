@@ -1,0 +1,4 @@
+system,hf_cbs_hartree,corr_valence_cbs_hartree,delta_core_hartree,fci_cbs_hartree,hf_bases,valence_bases,core_basis,literature_hartree,literature_source,cbs_minus_literature_mhartree,core_treatment
+H2,-1.1336335876451964,-0.04101024255586167,0.0,-1.174643830201058,ccecp-cc-pvdz/ccecp-cc-pvtz/ccecp-cc-pvqz/ccecp-cc-pv5z,ccecp-cc-pvtz/ccecp-cc-pvqz,,,not applicable: ccecp defines a different Hamiltonian from the all-electron non-relativistic limit,,ccecp
+LiH,-0.7503987256895696,-0.03774191087209202,0.0,-0.7881406365616616,ccecp-cc-pvdz/ccecp-cc-pvtz/ccecp-cc-pvqz,ccecp-cc-pvtz/ccecp-cc-pvqz,,,not applicable: ccecp defines a different Hamiltonian from the all-electron non-relativistic limit,,ccecp
+Be,-0.96189257575444,-0.048261655430717434,0.0,-1.0101542311851575,ccecp-cc-pvdz/ccecp-cc-pvtz/ccecp-cc-pvqz,ccecp-cc-pvtz/ccecp-cc-pvqz,,,not applicable: ccecp defines a different Hamiltonian from the all-electron non-relativistic limit,,ccecp

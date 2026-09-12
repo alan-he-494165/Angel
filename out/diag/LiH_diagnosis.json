@@ -1,0 +1,23 @@
+{
+  "system": "LiH",
+  "learning_rate": 0.05,
+  "train_window_energy_hartree": -8.071093275042074,
+  "train_window_error_hartree": 0.00019503654191918611,
+  "eval_energy_hartree": -8.070403727321416,
+  "eval_blocked_error_hartree": 0.00011293152553443137,
+  "eval_blocking_block_size": 16,
+  "eval_n_samples": 409600,
+  "eval_variance_hartree2": 0.0032983425098142695,
+  "eval_skewness": -136.89532893120767,
+  "local_energy_min": -29.149385382700245,
+  "local_energy_max": 0.04498090912453989,
+  "local_energy_q001": -8.331527621712775,
+  "local_energy_q999": -7.80644035341719,
+  "fraction_beyond_5_mad": 0.0212451171875,
+  "mean_shift_if_tail_dropped_mhartree": -0.11935960440645488,
+  "literature_hartree": -8.070548,
+  "literature_source": "Cencek-Rychlewski, R = 3.015 a0",
+  "eval_minus_literature_mhartree": 0.1442726785843007,
+  "train_minus_literature_mhartree": -0.5452750420733565,
+  "sigmas_below_literature": -1.277523507289502
+}

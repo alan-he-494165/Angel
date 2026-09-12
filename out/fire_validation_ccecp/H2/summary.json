@@ -1,0 +1,99 @@
+{
+  "acceptance_global": 0.228515625,
+  "acceptance_local": 0.4794921875,
+  "config": {
+    "ansatz": {
+      "cutoff": 5.0,
+      "cutoff_nuclei": 20.0,
+      "cutoff_poly_order": 6,
+      "edge_mlp_widths": [
+        8,
+        8
+      ],
+      "embedding_mlp_widths": [
+        32
+      ],
+      "hidden_dim": 32,
+      "jastrow_mlp_widths": [
+        32,
+        32
+      ],
+      "n_determinants": 4,
+      "n_envelopes": 4,
+      "n_gaussians": 8,
+      "n_registers": 4,
+      "register_dim": 8
+    },
+    "double_precision": true,
+    "ecp": "ccecp",
+    "ecp_cutoff": 10.0,
+    "ecp_max_log_ratio": 20.0,
+    "ecp_quadrature": 12,
+    "laplacian_backend": "auto",
+    "log_every": 120,
+    "log_path": null,
+    "mcmc": {
+      "batch_size": 256,
+      "global_sigma": 2.0,
+      "n_burn_in": 20,
+      "n_global_moves": 2,
+      "n_steps": null,
+      "step_size": 0.3,
+      "step_size_adaptation": 0.05,
+      "target_acceptance": 0.5
+    },
+    "opt": {
+      "clip_statistic": "median",
+      "clip_width": 2.0,
+      "damping": 0.001,
+      "decay": 0.99,
+      "learning_rate": 0.05,
+      "lr_decay_time": 150.0,
+      "n_eval_steps": 120,
+      "norm_constraint": 0.001,
+      "steps": 1200
+    },
+    "pretrain": {
+      "basis": "cc-pvdz",
+      "batch_size": null,
+      "gaussian_refresh_fraction": 0.5,
+      "learning_rate": 0.1,
+      "lr_decay_time": 1000.0,
+      "steps": 1000
+    },
+    "seed": 1234
+  },
+  "energy_error_hartree": 0.003939237438896172,
+  "energy_extrapolated_hartree": -1.1495152312834123,
+  "energy_hartree": -1.1471107920791712,
+  "energy_variance_hartree2": 0.5069770950824193,
+  "extrapolation_slope": 0.003310330044008933,
+  "hf_energy_hartree": -1.1304676681918995,
+  "laplacian_backend": "loop",
+  "mcmc_steps_per_block": 4,
+  "n_eval_steps": 120,
+  "n_steps": 1200,
+  "nuclear_repulsion_hartree": 0.7142857142857143,
+  "seed": 1234,
+  "system": {
+    "charge": 0,
+    "charges": [
+      1.0,
+      1.0
+    ],
+    "core_treatment": "ecp:ccecp",
+    "ecp": "ccecp",
+    "n_core_electrons_removed": 0,
+    "n_down": 1,
+    "n_electrons": 2,
+    "n_nuclei": 2,
+    "n_up": 1,
+    "name": "H2",
+    "nuclear_repulsion_hartree": 0.7142857142857143,
+    "spin_2s": 0,
+    "symbols": [
+      "H",
+      "H"
+    ]
+  }
+}

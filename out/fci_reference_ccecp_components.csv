@@ -1,0 +1,17 @@
+system,quantity,basis,n_orbitals,energy_hartree,seconds
+H2,HF,ccecp-cc-pvdz,10,-1.1304676681918995,0.9
+H2,HF,ccecp-cc-pvtz,28,-1.1333161194650425,0.0
+H2,HF,ccecp-cc-pvqz,60,-1.1335925412649197,0.2
+H2,HF,ccecp-cc-pv5z,110,-1.1336282806398361,1.3
+H2,FCI_frozen_core,ccecp-cc-pvtz,28,-1.1726974022291596,0.4
+H2,FCI_frozen_core,ccecp-cc-pvqz,60,-1.1739155664086391,1.3
+LiH,HF,ccecp-cc-pvdz,18,-0.740761754369667,0.1
+LiH,HF,ccecp-cc-pvtz,43,-0.7477405284681795,0.1
+LiH,HF,ccecp-cc-pvqz,84,-0.7496655064826998,0.7
+LiH,FCI_frozen_core,ccecp-cc-pvtz,43,-0.7838778259153707,0.3
+LiH,FCI_frozen_core,ccecp-cc-pvqz,84,-0.7867304710661618,10.6
+Be,HF,ccecp-cc-pvdz,13,-0.9618925757608222,0.1
+Be,HF,ccecp-cc-pvtz,29,-0.9618925757436214,0.0
+Be,HF,ccecp-cc-pvqz,54,-0.9618925757727788,0.1
+Be,FCI_frozen_core,ccecp-cc-pvtz,29,-1.009607251005098,0.1
+Be,FCI_frozen_core,ccecp-cc-pvqz,54,-1.0099234739445977,0.8

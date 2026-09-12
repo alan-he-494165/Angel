@@ -1,0 +1,39 @@
+[
+  {
+    "label": "ccecp",
+    "n_samples": 40960,
+    "train_energy": -1.1420798008640607,
+    "mean_total": -1.1432037353515625,
+    "var_total": 0.4214524030685425,
+    "mean_kinetic": 1.1758071184158325,
+    "var_kinetic": 2.6521735191345215,
+    "mean_coulomb": -2.3206138610839844,
+    "var_coulomb": 2.7070343494415283,
+    "mean_ecp_local": 0.0016031969571486115,
+    "var_ecp_local": 0.2526180148124695,
+    "mean_ecp_nonlocal": 0.0,
+    "var_ecp_nonlocal": 0.0,
+    "var_sum_diagonal": 5.611825942993164,
+    "log_ratio_p999": 0.0,
+    "log_ratio_max": 0.0,
+    "frac_ratio_gt_5": 0.0,
+    "max_log_ratio_setting": 20.0,
+    "frac_clamped": 0.0
+  },
+  {
+    "label": "all_electron",
+    "n_samples": 40960,
+    "train_energy": -1.174271031220754,
+    "mean_total": -1.1739771366119385,
+    "var_total": 0.009065533988177776,
+    "mean_kinetic": 1.1531486511230469,
+    "var_kinetic": 2.5660343170166016,
+    "mean_coulomb": -2.3271257877349854,
+    "var_coulomb": 2.601193904876709,
+    "mean_ecp_local": 0.0,
+    "var_ecp_local": 0.0,
+    "mean_ecp_nonlocal": 0.0,
+    "var_ecp_nonlocal": 0.0,
+    "var_sum_diagonal": 5.1672282218933105
+  }
+]

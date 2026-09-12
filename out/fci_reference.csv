@@ -1,0 +1,4 @@
+system,hf_cbs_hartree,corr_valence_cbs_hartree,delta_core_hartree,fci_cbs_hartree,hf_bases,valence_bases,core_basis,literature_hartree,literature_source,cbs_minus_literature_mhartree
+H2,-1.1336718665702592,-0.04103926260347615,0.0,-1.1747111291737353,cc-pvdz/cc-pvtz/cc-pvqz/cc-pv5z,cc-pvtz/cc-pvqz,,-1.174476,"Kolos-Wolniewicz (clamped nuclei, R = 1.4 a0)",-0.235129173735249
+LiH,-7.987298042684812,-0.03750560220193001,-0.04182169760978205,-8.066625342496524,cc-pvdz/cc-pvtz/cc-pvqz,cc-pvtz/cc-pvqz,cc-pcvtz/cc-pvtz,-8.070548,"Cencek-Rychlewski (ECG, R = 3.015 a0)",3.9226575034767563
+Be,-14.572988437165025,-0.04629570256137827,-0.04371234812321667,-14.66299648784962,cc-pvdz/cc-pvtz/cc-pvqz,cc-pvtz/cc-pvqz,cc-pcvtz,-14.667356,Chakravorty et al. 1993 (estimated NR limit),4.359512150379885
