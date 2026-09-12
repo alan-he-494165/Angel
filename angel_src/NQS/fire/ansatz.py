@@ -303,9 +303,7 @@ class Orbitals(nn.Module):
         # paper (arXiv:2504.06087), but a pseudopotential-QMC requirement.
         exp_decay = jnp.exp(-sigma[None] * distance_en[:, :, None])
         if np.any(np.asarray(self.ecp_mask)):
-            a = 0.217  # SCRATCH EXPERIMENT: ccECP-H core radius, 1/sqrt(21.24)
-            soft = jnp.sqrt(distance_en[:, :, None] ** 2 + a * a) - a
-            gaussian_decay = jnp.exp(-sigma[None] * soft)
+            gaussian_decay = jnp.exp(-sigma[None] * distance_en[:, :, None] ** 2)
             decay = jnp.where(self.ecp_mask[None, :, None], gaussian_decay, exp_decay)
         else:
             # Keep the established all-electron graph bit-for-bit identical;

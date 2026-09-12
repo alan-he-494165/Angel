@@ -1,0 +1,2 @@
+system,core_treatment,n_samples,energy_hartree,var_total,var_kinetic,var_coulomb,var_ecp_local,var_ecp_nonlocal,var_sum_diagonal,mean_el_within_0p05,cusp_measured,cusp_expected,log_ratio_max,frac_log_ratio_clamped
+H2,ccecp,40960,-1.1572989225387573,0.08087240159511566,1.763952612876892,2.2013332843780518,0.12189895659685135,0.0,4.087184906005859,-3.5471205711364746,-0.09361998623155666,0.0,0.0,0.0

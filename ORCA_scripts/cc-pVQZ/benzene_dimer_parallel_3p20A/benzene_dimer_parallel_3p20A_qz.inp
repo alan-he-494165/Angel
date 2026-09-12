@@ -1,0 +1,5 @@
+! DLPNO-CCSD(T) cc-pVQZ cc-pVQZ/C TightSCF TightPNO
+%pal nprocs 32 end
+%maxcore 4000
+* xyzfile 0 1 ../../../Structure/C6H6_dimer/benzene_dimer_parallel_3p20A.xyz
+
